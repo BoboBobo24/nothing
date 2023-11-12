@@ -790,7 +790,7 @@
   "NOCLIP_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier",
   "NORMAL": "Normal",
   "NOTIFICATION_CRASH_TYPE_BLOCKED": "{} tried to crash me using {}!",
-  "NOTIFICATION_WELCOME_TEXT": "Bobo Menu Loaded. Press {} to open",
+  "NOTIFICATION_WELCOME_TEXT": "Bobo Menu Loaded. Press {} to open, F6 to toggle mouse",
   "NOTIFICATION_WELCOME_TITLE": "Welcome",
   "NOTIFY": "Notify",
   "NO_CLIP": "No Clip",
