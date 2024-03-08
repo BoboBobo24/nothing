@@ -1,0 +1,47 @@
+[
+    {
+        "Downloaded": false,
+        "Rating": 2,
+        "Features": 10,
+        "GTAVersion": 3092,
+        "GTAOVersion": 1.68,
+        "Status": "Detected",
+        "Price": "Free",
+        "Game": "GTA V",
+        "MenuVersion": "1.7",
+        "DownloadLinks": [
+                "https://example.com/mod1.zip",
+                "https://example.com/mod1_alternative.zip"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 9,
+        "Features": 650,
+        "GTAVersion": 4,
+        "GTAOVersion": 2,
+        "Status": "Inactive",
+        "Price": "10000 Features",
+        "Game": "GTA IV",
+        "MenuVersion": "2.0",
+        "DownloadLinks": [
+                "https://example.com/mod1.zip",
+                "https://example.com/mod1_alternative.zip"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 5,
+        "Features": 12,
+        "GTAVersion": 6999,
+        "GTAOVersion": 420,
+        "Status": "Active",
+        "Price": "100 Features",
+        "Game": "GTA VI",
+        "MenuVersion": "1.5",
+        "DownloadLinks": [
+                "https://example.com/mod1.zip",
+                "https://example.com/mod1_alternative.zip"
+            ]
+    }
+]
