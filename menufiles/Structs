@@ -1,450 +1,216 @@
 [
-    {
-        "Downloaded": false,
-        "Rating": 2,
-        "Features": 10,
-        "GTAVersion": "3092",
-        "GTAOVersion": "1.68",
-        "Name": "Sucks",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.7",
-        "DownloadLinks": [
-                "https://example.com/mod1.zip",
-                "https://example.com/mod1_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 9,
-        "Features": 650,
-        "GTAVersion": "3092",
-        "GTAOVersion": "1.68",
-        "Name": "KYS",
-        "Status": "Inactive",
-        "Price": "10000 Features",
-        "Game": "GTA IV",
-        "MenuVersion": "2.0",
-        "DownloadLinks": [
-                "https://example.com/mod1.zip",
-                "https://example.com/mod1_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 5,
-        "Features": 12,
-        "GTAVersion": "3092",
-        "GTAOVersion": "1.68",
-        "Name": "Nigero",
-        "Status": "Active",
-        "Price": "100 Features",
-        "Game": "GTA VI",
-        "MenuVersion": "1.5",
-        "DownloadLinks": [
-                "https://example.com/mod1.zip",
-                "https://example.com/mod1_alternative.zip"
-            ]
-    },    
-    {
-        "Downloaded": false,
-        "Rating": 2,
-        "Features": 10,
-        "GTAVersion": "3092",
-        "GTAOVersion": "1.68",
-        "Name": "Sucks 2.0",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.7",
-        "DownloadLinks": [
-                "https://example.com/mod1.zip",
-                "https://example.com/mod1_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 7,
-        "Features": 20,
-        "GTAVersion": "4000",
-        "GTAOVersion": "2.0",
-        "Name": "Awesome Mod",
-        "Status": "Active",
-        "Price": "Paid",
+{
+        "Downloaded": true,
+        "Rating": 4,
+        "Features": 8,
+        "GTAVersion": "3100",
+        "GTAOVersion": "1.70",
+        "Name": "EpicMod",
+        "Status": "Undetected",
+        "Price": "Premium",
         "Game": "GTA V",
         "MenuVersion": "2.0",
         "DownloadLinks": [
                 "https://example.com/mod2.zip",
                 "https://example.com/mod2_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 5,
-        "Features": 15,
-        "GTAVersion": "4100",
-        "GTAOVersion": "2.1",
-        "Name": "Epic Mod",
-        "Status": "Inactive",
+        "Rating": 3,
+        "Features": 6,
+        "GTAVersion": "3085",
+        "GTAOVersion": "1.65",
+        "Name": "StealthyHacks",
+        "Status": "Detected",
         "Price": "Free",
-        "Game": "GTA IV",
+        "Game": "GTA V",
         "MenuVersion": "1.5",
         "DownloadLinks": [
                 "https://example.com/mod3.zip",
                 "https://example.com/mod3_alternative.zip"
+            ],
+        "Versions": [
+                "Free",
+                "Premium"
             ]
     },
     {
         "Downloaded": true,
-        "Rating": 9,
-        "Features": 25,
-        "GTAVersion": "6000",
-        "GTAOVersion": "3.0",
-        "Name": "Super Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA VI",
-        "MenuVersion": "3.0",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3098",
+        "GTAOVersion": "1.69",
+        "Name": "UltimateCheats",
+        "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.1",
         "DownloadLinks": [
                 "https://example.com/mod4.zip",
                 "https://example.com/mod4_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 3,
-        "Features": 12,
-        "GTAVersion": "5000",
-        "GTAOVersion": "2.5",
-        "Name": "Cool Mod",
+        "Rating": 2,
+        "Features": 7,
+        "GTAVersion": "3102",
+        "GTAOVersion": "1.71",
+        "Name": "HackMaster",
         "Status": "Detected",
         "Price": "Free",
-        "Game": "GTA IV",
-        "MenuVersion": "2.5",
+        "Game": "GTA V",
+        "MenuVersion": "1.8",
         "DownloadLinks": [
                 "https://example.com/mod5.zip",
                 "https://example.com/mod5_alternative.zip"
+            ],
+        "Versions": [
+                "Free",
+                "Premium"
             ]
     },
     {
         "Downloaded": true,
-        "Rating": 8,
-        "Features": 30,
-        "GTAVersion": "7000",
-        "GTAOVersion": "3.5",
-        "Name": "Legendary Mod",
-        "Status": "Active",
-        "Price": "Paid",
+        "Rating": 4,
+        "Features": 8,
+        "GTAVersion": "3089",
+        "GTAOVersion": "1.67",
+        "Name": "InfernoHacks",
+        "Status": "Undetected",
+        "Price": "Premium",
         "Game": "GTA V",
-        "MenuVersion": "3.5",
+        "MenuVersion": "1.9",
         "DownloadLinks": [
                 "https://example.com/mod6.zip",
                 "https://example.com/mod6_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 6,
-        "Features": 18,
-        "GTAVersion": "4500",
-        "GTAOVersion": "2.3",
-        "Name": "Great Mod",
-        "Status": "Inactive",
+        "Rating": 3,
+        "Features": 6,
+        "GTAVersion": "3105",
+        "GTAOVersion": "1.72",
+        "Name": "CheatMaster",
+        "Status": "Detected",
         "Price": "Free",
-        "Game": "GTA VI",
-        "MenuVersion": "2.3",
+        "Game": "GTA V",
+        "MenuVersion": "1.6",
         "DownloadLinks": [
                 "https://example.com/mod7.zip",
                 "https://example.com/mod7_alternative.zip"
+            ],
+        "Versions": [
+                "Free",
+                "Premium"
             ]
     },
     {
         "Downloaded": true,
-        "Rating": 10,
-        "Features": 40,
-        "GTAVersion": "8000",
-        "GTAOVersion": "4.0",
-        "Name": "Fantastic Mod",
-        "Status": "Active",
-        "Price": "Paid",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3096",
+        "GTAOVersion": "1.68",
+        "Name": "EliteMods",
+        "Status": "Undetected",
+        "Price": "Premium",
         "Game": "GTA V",
-        "MenuVersion": "4.0",
+        "MenuVersion": "2.2",
         "DownloadLinks": [
                 "https://example.com/mod8.zip",
                 "https://example.com/mod8_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 4,
-        "Features": 14,
-        "GTAVersion": "5500",
-        "GTAOVersion": "2.7",
-        "Name": "Amazing Mod",
+        "Rating": 2,
+        "Features": 7,
+        "GTAVersion": "3108",
+        "GTAOVersion": "1.73",
+        "Name": "ShadowCheats",
         "Status": "Detected",
         "Price": "Free",
-        "Game": "GTA IV",
-        "MenuVersion": "2.7",
+        "Game": "GTA V",
+        "MenuVersion": "2.0",
         "DownloadLinks": [
                 "https://example.com/mod9.zip",
                 "https://example.com/mod9_alternative.zip"
+            ],
+        "Versions": [
+                "Free",
+                "Premium"
             ]
     },
     {
         "Downloaded": true,
-        "Rating": 9,
-        "Features": 35,
-        "GTAVersion": "7500",
-        "GTAOVersion": "3.8",
-        "Name": "Incredible Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA VI",
-        "MenuVersion": "3.8",
+        "Rating": 4,
+        "Features": 8,
+        "GTAVersion": "3087",
+        "GTAOVersion": "1.66",
+        "Name": "CheatEvolution",
+        "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.3",
         "DownloadLinks": [
                 "https://example.com/mod10.zip",
                 "https://example.com/mod10_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 5,
-        "Features": 17,
-        "GTAVersion": "4700",
-        "GTAOVersion": "2.4",
-        "Name": "Radical Mod",
-        "Status": "Inactive",
+        "Rating": 3,
+        "Features": 6,
+        "GTAVersion": "3110",
+        "GTAOVersion": "1.74",
+        "Name": "NinjaHacks",
+        "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "2.4",
+        "MenuVersion": "1.7",
         "DownloadLinks": [
                 "https://example.com/mod11.zip",
                 "https://example.com/mod11_alternative.zip"
+            ],
+        "Versions": [
+                "Free",
+                "Premium"
             ]
     },
     {
         "Downloaded": true,
-        "Rating": 8,
-        "Features": 28,
-        "GTAVersion": "6500",
-        "GTAOVersion": "3.3",
-        "Name": "Awesome Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA IV",
-        "MenuVersion": "3.3",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3094",
+        "GTAOVersion": "1.69",
+        "Name": "ApexMods",
+        "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.4",
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
                 "https://example.com/mod12_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 6,
-        "Features": 21,
-        "GTAVersion": "5200",
-        "GTAOVersion": "2.6",
-        "Name": "Superb Mod",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA VI",
-        "MenuVersion": "2.6",
-        "DownloadLinks": [
-                "https://example.com/mod13.zip",
-                "https://example.com/mod13_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 10,
-        "Features": 38,
-        "GTAVersion": "7800",
-        "GTAOVersion": "3.9",
-        "Name": "Outstanding Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA V",
-        "MenuVersion": "3.9",
-        "DownloadLinks": [
-                "https://example.com/mod14.zip",
-                "https://example.com/mod14_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 3,
-        "Features": 13,
-        "GTAVersion": "4800",
-        "GTAOVersion": "2.4",
-        "Name": "Marvelous Mod",
-        "Status": "Inactive",
-        "Price": "Free",
-        "Game": "GTA IV",
-        "MenuVersion": "2.4",
-        "DownloadLinks": [
-                "https://example.com/mod15.zip",
-                "https://example.com/mod15_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 7,
-        "Features": 24,
-        "GTAVersion": "7000",
-        "GTAOVersion": "3.5",
-        "Name": "Exceptional Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA VI",
-        "MenuVersion": "3.5",
-        "DownloadLinks": [
-                "https://example.com/mod16.zip",
-                "https://example.com/mod16_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 4,
-        "Features": 16,
-        "GTAVersion": "5100",
-        "GTAOVersion": "2.5",
-        "Name": "Impressive Mod",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "2.5",
-        "DownloadLinks": [
-                "https://example.com/mod17.zip",
-                "https://example.com/mod17_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 9,
-        "Features": 33,
-        "GTAVersion": "7300",
-        "GTAOVersion": "3.7",
-        "Name": "Stunning Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA IV",
-        "MenuVersion": "3.7",
-        "DownloadLinks": [
-                "https://example.com/mod18.zip",
-                "https://example.com/mod18_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 5,
-        "Features": 19,
-        "GTAVersion": "5300",
-        "GTAOVersion": "2.7",
-        "Name": "Terrific Mod",
-        "Status": "Inactive",
-        "Price": "Free",
-        "Game": "GTA VI",
-        "MenuVersion": "2.7",
-        "DownloadLinks": [
-                "https://example.com/mod19.zip",
-                "https://example.com/mod19_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 8,
-        "Features": 27,
-        "GTAVersion": "6800",
-        "GTAOVersion": "3.4",
-        "Name": "Remarkable Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA V",
-        "MenuVersion": "3.4",
-        "DownloadLinks": [
-                "https://example.com/mod20.zip",
-                "https://example.com/mod20_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 6,
-        "Features": 22,
-        "GTAVersion": "5600",
-        "GTAOVersion": "2.8",
-        "Name": "Brilliant Mod",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA IV",
-        "MenuVersion": "2.8",
-        "DownloadLinks": [
-                "https://example.com/mod21.zip",
-                "https://example.com/mod21_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 10,
-        "Features": 36,
-        "GTAVersion": "7400",
-        "GTAOVersion": "3.6",
-        "Name": "Fabulous Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA VI",
-        "MenuVersion": "3.6",
-        "DownloadLinks": [
-                "https://example.com/mod22.zip",
-                "https://example.com/mod22_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 3,
-        "Features": 14,
-        "GTAVersion": "4900",
-        "GTAOVersion": "2.4",
-        "Name": "Splendid Mod",
-        "Status": "Inactive",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "2.4",
-        "DownloadLinks": [
-                "https://example.com/mod23.zip",
-                "https://example.com/mod23_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": true,
-        "Rating": 7,
-        "Features": 25,
-        "GTAVersion": "7100",
-        "GTAOVersion": "3.5",
-        "Name": "Exceptional Mod",
-        "Status": "Active",
-        "Price": "Paid",
-        "Game": "GTA IV",
-        "MenuVersion": "3.5",
-        "DownloadLinks": [
-                "https://example.com/mod24.zip",
-                "https://example.com/mod24_alternative.zip"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": 4,
-        "Features": 17,
-        "GTAVersion": "5200",
-        "GTAOVersion": "2.6",
-        "Name": "Depressive Mod",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA VI",
-        "MenuVersion": "2.6",
-        "DownloadLinks": [
-                "https://example.com/mod25.zip",
-                "https://example.com/mod25_alternative.zip"
+            ],
+        "Versions": [
+                "Premium"
             ]
     }
 ]
