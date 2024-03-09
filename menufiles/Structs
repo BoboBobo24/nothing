@@ -15,7 +15,8 @@
                 "https://example.com/mod2_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -35,7 +36,8 @@
             ],
         "Versions": [
                 "Free",
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -54,7 +56,8 @@
                 "https://example.com/mod4_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -74,7 +77,8 @@
             ],
         "Versions": [
                 "Free",
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -93,7 +97,8 @@
                 "https://example.com/mod6_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -113,7 +118,8 @@
             ],
         "Versions": [
                 "Free",
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -132,7 +138,8 @@
                 "https://example.com/mod8_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -152,7 +159,8 @@
             ],
         "Versions": [
                 "Free",
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -171,7 +179,8 @@
                 "https://example.com/mod10_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -191,7 +200,8 @@
             ],
         "Versions": [
                 "Free",
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     },
     {
@@ -210,7 +220,8 @@
                 "https://example.com/mod12_alternative.zip"
             ],
         "Versions": [
-                "Premium"
+                "Premium",
+                "Dev"
             ]
     }
 ]
