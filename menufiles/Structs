@@ -1,6 +1,6 @@
 [
 {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 4,
         "Features": 8,
         "GTAVersion": "3100",
@@ -39,7 +39,7 @@
             ]
     },
     {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 5,
         "Features": 9,
         "GTAVersion": "3098",
@@ -78,7 +78,7 @@
             ]
     },
     {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 4,
         "Features": 8,
         "GTAVersion": "3089",
@@ -117,7 +117,7 @@
             ]
     },
     {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 5,
         "Features": 9,
         "GTAVersion": "3096",
@@ -156,7 +156,7 @@
             ]
     },
     {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 4,
         "Features": 8,
         "GTAVersion": "3087",
@@ -195,7 +195,7 @@
             ]
     },
     {
-        "Downloaded": true,
+        "Downloaded": false,
         "Rating": 5,
         "Features": 9,
         "GTAVersion": "3094",
