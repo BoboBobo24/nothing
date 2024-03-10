@@ -1,7 +1,7 @@
 [
 {
         "Downloaded": false,
-        "Rating": 9,
+        "Rating": 9.8,
         "Features": 120,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
@@ -46,54 +46,55 @@
     },
     {
         "Downloaded": false,
-        "Rating": 5,
-        "Features": 9,
-        "GTAVersion": "3098",
-        "GTAOVersion": "1.69",
-        "Name": "UltimateCheats",
-        "Status": "Undetected",
-        "Price": "Premium",
+        "Rating": 7,
+        "Features": 100,
+        "GTAVersion": "1604",
+        "GTAOVersion": "1.46",
+        "Name": "Legacy Menu",
+        "Status": "Outdated",
+        "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "2.1",
+        "MenuVersion": "3.7",
         "DownloadLinks": [
                 "https://example.com/mod4.zip",
                 "https://example.com/mod4_alternative.zip"
             ],
         "Versions": [
-                "Premium",
+                "Free",
+		"VIP",
                 "Dev"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 2,
-        "Features": 7,
-        "GTAVersion": "3102",
-        "GTAOVersion": "1.71",
-        "Name": "HackMaster",
+        "Rating": 7,
+        "Features": 115,
+        "GTAVersion": "2060",
+        "GTAOVersion": "1.51",
+        "Name": "Crack Engine",
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.8",
+        "MenuVersion": "6.5",
         "DownloadLinks": [
                 "https://example.com/mod5.zip",
                 "https://example.com/mod5_alternative.zip"
             ],
         "Versions": [
                 "Free",
-                "Premium",
+                "VIP",
                 "Dev"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 4,
-        "Features": 8,
-        "GTAVersion": "3089",
-        "GTAOVersion": "1.67",
-        "Name": "InfernoHacks",
-        "Status": "Undetected",
-        "Price": "Premium",
+        "Rating": 8,
+        "Features": 50,
+        "GTAVersion": "2545",
+        "GTAOVersion": "1.58",
+        "Name": "Inferno Hacks",
+        "Status": "Outdated",
+        "Price": "500.000 Features",
         "Game": "GTA V",
         "MenuVersion": "1.9",
         "DownloadLinks": [
@@ -101,21 +102,22 @@
                 "https://example.com/mod6_alternative.zip"
             ],
         "Versions": [
-                "Premium",
+                "Basic",
+		"Premium",
                 "Dev"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 3,
-        "Features": 6,
-        "GTAVersion": "3105",
-        "GTAOVersion": "1.72",
-        "Name": "CheatMaster",
+        "Rating": 4,
+        "Features": 65,
+        "GTAVersion": "2944",
+        "GTAOVersion": "1.67",
+        "Name": "Purge",
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.6",
+        "MenuVersion": "3.7",
         "DownloadLinks": [
                 "https://example.com/mod7.zip",
                 "https://example.com/mod7_alternative.zip"
@@ -128,13 +130,13 @@
     },
     {
         "Downloaded": false,
-        "Rating": 5,
-        "Features": 9,
-        "GTAVersion": "3096",
-        "GTAOVersion": "1.68",
-        "Name": "EliteMods",
-        "Status": "Undetected",
-        "Price": "Premium",
+        "Rating": 2,
+        "Features": 15,
+        "GTAVersion": "2189",
+        "GTAOVersion": "1.52",
+        "Name": "Elite Mod",
+        "Status": "Outdated",
+        "Price": "Free",
         "Game": "GTA V",
         "MenuVersion": "2.2",
         "DownloadLinks": [
@@ -142,6 +144,7 @@
                 "https://example.com/mod8_alternative.zip"
             ],
         "Versions": [
+		"Free",
                 "Premium",
                 "Dev"
             ]
@@ -149,12 +152,12 @@
     {
         "Downloaded": false,
         "Rating": 2,
-        "Features": 7,
-        "GTAVersion": "3108",
-        "GTAOVersion": "1.73",
-        "Name": "ShadowCheats",
+        "Features": 45,
+        "GTAVersion": "2545",
+        "GTAOVersion": "1.58",
+        "Name": "Shadow Cheat",
         "Status": "Detected",
-        "Price": "Free",
+        "Price": "700.000 Features",
         "Game": "GTA V",
         "MenuVersion": "2.0",
         "DownloadLinks": [
@@ -162,22 +165,22 @@
                 "https://example.com/mod9_alternative.zip"
             ],
         "Versions": [
-                "Free",
-                "Premium",
+                "Regular",
+                "VIP",
                 "Dev"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 4,
-        "Features": 8,
-        "GTAVersion": "3087",
-        "GTAOVersion": "1.66",
-        "Name": "CheatEvolution",
-        "Status": "Undetected",
-        "Price": "Premium",
+        "Rating": 6,
+        "Features": 95,
+        "GTAVersion": "2699",
+        "GTAOVersion": "1.61",
+        "Name": "Vortex",
+        "Status": "Outdated",
+        "Price": "1.000.000 Features",
         "Game": "GTA V",
-        "MenuVersion": "2.3",
+        "MenuVersion": "6.3",
         "DownloadLinks": [
                 "https://example.com/mod10.zip",
                 "https://example.com/mod10_alternative.zip"
@@ -189,11 +192,11 @@
     },
     {
         "Downloaded": false,
-        "Rating": 3,
-        "Features": 6,
-        "GTAVersion": "3110",
-        "GTAOVersion": "1.74",
-        "Name": "NinjaHacks",
+        "Rating": 5,
+        "Features": 55,
+        "GTAVersion": "2944",
+        "GTAOVersion": "1.67",
+        "Name": "Quantum Menu",
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
@@ -204,26 +207,70 @@
             ],
         "Versions": [
                 "Free",
+                "Paid",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 8,
+        "Features": 86,
+        "GTAVersion": "2944",
+        "GTAOVersion": "1.67",
+        "Name": "Fusion",
+        "Status": "Outdated",
+        "Price": "800.000 Features",
+        "Game": "GTA V",
+        "MenuVersion": "5.8",
+        "DownloadLinks": [
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
+            ],
+        "Versions": [
+		"Lite",
                 "Premium",
                 "Dev"
             ]
     },
     {
         "Downloaded": false,
-        "Rating": 5,
-        "Features": 9,
-        "GTAVersion": "3094",
-        "GTAOVersion": "1.69",
-        "Name": "ApexMods",
-        "Status": "Undetected",
-        "Price": "Premium",
+        "Rating": 6,
+        "Features": 43,
+        "GTAVersion": "2372",
+        "GTAOVersion": "1.57",
+        "Name": "Phoenix",
+        "Status": "Outdated",
+        "Price": "45.000 Features",
         "Game": "GTA V",
-        "MenuVersion": "2.4",
+        "MenuVersion": "1.53",
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
                 "https://example.com/mod12_alternative.zip"
             ],
         "Versions": [
+		"Lite",
+                "VIP",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 7.5,
+        "Features": 73,
+        "GTAVersion": "2372",
+        "GTAOVersion": "1.57",
+        "Name": "Spectrum",
+        "Status": "Detected",
+        "Price": "Free",
+        "Game": "GTA V",
+        "MenuVersion": "8.97",
+        "DownloadLinks": [
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
+            ],
+        "Versions": [
+		"Free",
+		"Lite",
                 "Premium",
                 "Dev"
             ]
