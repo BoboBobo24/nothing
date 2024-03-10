@@ -1,8 +1,7 @@
 [
 {
-
         "Downloaded": false,
-        "Rating": 10,
+        "Rating": 9,
         "Features": 120,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
@@ -16,893 +15,217 @@
                 "https://example.com/mod2_alternative.zip"
             ],
         "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+		"Free",
+		"Lite",
+		"Basic",
+		"Regular",
+                "Premium",
+		"VIP",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
         "Rating": 3,
-        "Features": 30,
+        "Features": 20,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
-        "Name": Modu Menu",
+        "Name": "Modu Menu",
         "Status": "Undetected",
         "Price": "Free",
         "Game": "GTA V",
         "MenuVersion": "1.1",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod3.zip",
+                "https://example.com/mod3_alternative.zip"
             ],
         "Versions": [
                 "Free",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3098",
+        "GTAOVersion": "1.69",
+        "Name": "UltimateCheats",
         "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.1",
+        "DownloadLinks": [
+                "https://example.com/mod4.zip",
+                "https://example.com/mod4_alternative.zip"
+            ],
+        "Versions": [
+                "Premium",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 2,
+        "Features": 7,
+        "GTAVersion": "3102",
+        "GTAOVersion": "1.71",
+        "Name": "HackMaster",
+        "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.0",
+        "MenuVersion": "1.8",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod5.zip",
+                "https://example.com/mod5_alternative.zip"
             ],
         "Versions": [
                 "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+                "Premium",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
+        "Rating": 4,
+        "Features": 8,
+        "GTAVersion": "3089",
+        "GTAOVersion": "1.67",
+        "Name": "InfernoHacks",
         "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "1.9",
+        "DownloadLinks": [
+                "https://example.com/mod6.zip",
+                "https://example.com/mod6_alternative.zip"
+            ],
+        "Versions": [
+                "Premium",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 3,
+        "Features": 6,
+        "GTAVersion": "3105",
+        "GTAOVersion": "1.72",
+        "Name": "CheatMaster",
+        "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.0",
+        "MenuVersion": "1.6",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod7.zip",
+                "https://example.com/mod7_alternative.zip"
             ],
         "Versions": [
                 "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+                "Premium",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3096",
         "GTAOVersion": "1.68",
-        "Name": "Super Menu",
+        "Name": "EliteMods",
         "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.2",
+        "DownloadLinks": [
+                "https://example.com/mod8.zip",
+                "https://example.com/mod8_alternative.zip"
+            ],
+        "Versions": [
+                "Premium",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 2,
+        "Features": 7,
+        "GTAVersion": "3108",
+        "GTAOVersion": "1.73",
+        "Name": "ShadowCheats",
+        "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.0",
+        "MenuVersion": "2.0",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod9.zip",
+                "https://example.com/mod9_alternative.zip"
             ],
         "Versions": [
                 "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+                "Premium",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
+        "Rating": 4,
+        "Features": 8,
+        "GTAVersion": "3087",
+        "GTAOVersion": "1.66",
+        "Name": "CheatEvolution",
         "Status": "Undetected",
+        "Price": "Premium",
+        "Game": "GTA V",
+        "MenuVersion": "2.3",
+        "DownloadLinks": [
+                "https://example.com/mod10.zip",
+                "https://example.com/mod10_alternative.zip"
+            ],
+        "Versions": [
+                "Premium",
+                "Dev"
+            ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": 3,
+        "Features": 6,
+        "GTAVersion": "3110",
+        "GTAOVersion": "1.74",
+        "Name": "NinjaHacks",
+        "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
-        "MenuVersion": "1.0",
+        "MenuVersion": "1.7",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod11.zip",
+                "https://example.com/mod11_alternative.zip"
             ],
         "Versions": [
                 "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+                "Premium",
                 "Dev"
             ]
     },
-{
-
+    {
         "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
+        "Rating": 5,
+        "Features": 9,
+        "GTAVersion": "3094",
+        "GTAOVersion": "1.69",
+        "Name": "ApexMods",
         "Status": "Undetected",
-        "Price": "Free",
+        "Price": "Premium",
         "Game": "GTA V",
-        "MenuVersion": "1.0",
+        "MenuVersion": "2.4",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
             ],
         "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
+                "Premium",
                 "Dev"
             ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-{
-
-        "Downloaded": false,
-        "Rating": 10,
-        "Features": 120,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Super Menu",
-        "Status": "Undetected",
-        "Price": "Free",
-        "Game": "GTA V",
-        "MenuVersion": "1.0",
-        "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
-            ],
-        "Versions": [
-                "Free",
-									"Lite",
-									"Basic",
-									"Regular",
-									"Premium",
-									"VIP",
-                "Dev"
-            ]
-    },
-
+    }
 ]
