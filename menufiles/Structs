@@ -11,8 +11,12 @@
         "Game": "GTA V",
         "MenuVersion": "1.0",
         "DownloadLinks": [
-                "https://example.com/mod2.zip",
-                "https://example.com/mod2_alternative.zip"
+                "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/gtav.dll",
+                "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/Mod.ytd"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
 		"Free",
@@ -39,6 +43,10 @@
                 "https://example.com/mod3.zip",
                 "https://example.com/mod3_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
                 "Free",
                 "Dev"
@@ -58,6 +66,10 @@
         "DownloadLinks": [
                 "https://example.com/mod4.zip",
                 "https://example.com/mod4_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
                 "Free",
@@ -80,6 +92,10 @@
                 "https://example.com/mod5.zip",
                 "https://example.com/mod5_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
                 "Free",
                 "VIP",
@@ -100,6 +116,10 @@
         "DownloadLinks": [
                 "https://example.com/mod6.zip",
                 "https://example.com/mod6_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
                 "Basic",
@@ -122,6 +142,10 @@
                 "https://example.com/mod7.zip",
                 "https://example.com/mod7_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
                 "Free",
                 "Premium",
@@ -142,6 +166,10 @@
         "DownloadLinks": [
                 "https://example.com/mod8.zip",
                 "https://example.com/mod8_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
 		"Free",
@@ -164,6 +192,10 @@
                 "https://example.com/mod9.zip",
                 "https://example.com/mod9_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
                 "Regular",
                 "VIP",
@@ -185,6 +217,10 @@
                 "https://example.com/mod10.zip",
                 "https://example.com/mod10_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
                 "Premium",
                 "Dev"
@@ -204,6 +240,10 @@
         "DownloadLinks": [
                 "https://example.com/mod11.zip",
                 "https://example.com/mod11_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
                 "Free",
@@ -226,6 +266,10 @@
                 "https://example.com/mod12.zip",
                 "https://example.com/mod12_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
 		"Lite",
                 "Premium",
@@ -247,6 +291,10 @@
                 "https://example.com/mod12.zip",
                 "https://example.com/mod12_alternative.zip"
             ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
+            ],
         "Versions": [
 		"Lite",
                 "VIP",
@@ -267,6 +315,10 @@
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
                 "https://example.com/mod12_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll",
+                "UI.ytd"
             ],
         "Versions": [
 		"Free",
