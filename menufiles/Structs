@@ -9,6 +9,7 @@
         "Status": "Undetected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "1.0",
         "DownloadLinks": [
                 "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/gtav.dll",
@@ -38,6 +39,7 @@
         "Status": "Undetected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "1.1",
         "DownloadLinks": [
                 "https://example.com/mod3.zip",
@@ -61,7 +63,7 @@
         "Name": "Legacy Menu",
         "Status": "Outdated",
         "Price": "Free",
-        "Game": "GTA V",
+                "Game": "GTA V", 	"Injection": "GTA5.exe",
         "MenuVersion": "3.7",
         "DownloadLinks": [
                 "https://example.com/mod4.zip",
@@ -87,6 +89,7 @@
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "6.5",
         "DownloadLinks": [
                 "https://example.com/mod5.zip",
@@ -112,6 +115,7 @@
         "Status": "Outdated",
         "Price": "500.000 Features",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "1.9",
         "DownloadLinks": [
                 "https://example.com/mod6.zip",
@@ -137,6 +141,7 @@
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "3.7",
         "DownloadLinks": [
                 "https://example.com/mod7.zip",
@@ -162,6 +167,7 @@
         "Status": "Outdated",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "2.2",
         "DownloadLinks": [
                 "https://example.com/mod8.zip",
@@ -187,6 +193,7 @@
         "Status": "Detected",
         "Price": "700.000 Features",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "2.0",
         "DownloadLinks": [
                 "https://example.com/mod9.zip",
@@ -212,6 +219,7 @@
         "Status": "Outdated",
         "Price": "1.000.000 Features",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "6.3",
         "DownloadLinks": [
                 "https://example.com/mod10.zip",
@@ -236,6 +244,7 @@
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "1.7",
         "DownloadLinks": [
                 "https://example.com/mod11.zip",
@@ -261,6 +270,7 @@
         "Status": "Outdated",
         "Price": "800.000 Features",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "5.8",
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
@@ -286,6 +296,7 @@
         "Status": "Outdated",
         "Price": "45.000 Features",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "1.53",
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
@@ -311,6 +322,7 @@
         "Status": "Detected",
         "Price": "Free",
         "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "8.97",
         "DownloadLinks": [
                 "https://example.com/mod12.zip",
