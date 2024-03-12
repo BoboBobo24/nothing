@@ -1,7 +1,7 @@
 [
 {
         "Downloaded": false,
-        "Rating": 9.8,
+        "Rating": "9.8",
         "Features": 120,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
@@ -30,7 +30,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 3,
+        "Rating": "3",
         "Features": 20,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
@@ -54,7 +54,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 7,
+        "Rating": "7",
         "Features": 100,
         "GTAVersion": "1604",
         "GTAOVersion": "1.46",
@@ -79,7 +79,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 7,
+        "Rating": "7",
         "Features": 115,
         "GTAVersion": "2060",
         "GTAOVersion": "1.51",
@@ -104,7 +104,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 8,
+        "Rating": "8",
         "Features": 50,
         "GTAVersion": "2545",
         "GTAOVersion": "1.58",
@@ -129,7 +129,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 4,
+        "Rating": "4",
         "Features": 65,
         "GTAVersion": "2944",
         "GTAOVersion": "1.67",
@@ -154,7 +154,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 2,
+        "Rating": "2",
         "Features": 15,
         "GTAVersion": "2189",
         "GTAOVersion": "1.52",
@@ -179,7 +179,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 2,
+        "Rating": "2",
         "Features": 45,
         "GTAVersion": "2545",
         "GTAOVersion": "1.58",
@@ -204,7 +204,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 6,
+        "Rating": "6",
         "Features": 95,
         "GTAVersion": "2699",
         "GTAOVersion": "1.61",
@@ -228,7 +228,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 5,
+        "Rating": "5",
         "Features": 55,
         "GTAVersion": "2944",
         "GTAOVersion": "1.67",
@@ -253,7 +253,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 8,
+        "Rating": "8",
         "Features": 86,
         "GTAVersion": "2944",
         "GTAOVersion": "1.67",
@@ -278,7 +278,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 6,
+        "Rating": "6",
         "Features": 43,
         "GTAVersion": "2372",
         "GTAOVersion": "1.57",
@@ -303,7 +303,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": 7.5,
+        "Rating": "7.5",
         "Features": 73,
         "GTAVersion": "2372",
         "GTAOVersion": "1.57",
