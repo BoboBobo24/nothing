@@ -48,7 +48,7 @@
                 "Menu.dll"
             ],
         "Versions": [
-                "Low",
+                "Basic",
                 "Dev"
             ]
     },
@@ -61,7 +61,8 @@
         "Name": "Legacy Menu",
         "Status": "Outdated",
         "Price": "Free",
-                "Game": "GTA V", 	"Injection": "GTA5.exe",
+        "Game": "GTA V",
+	"Injection": "GTA5.exe",
         "MenuVersion": "3.7",
         "DownloadLinks": [
                 "https://example.com/mod4.zip",
