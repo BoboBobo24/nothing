@@ -10,7 +10,7 @@
         "Price": "Free",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
-        "MenuVersion": "1.01",
+        "MenuVersion": "1.02",
         "DownloadLinks": [
                 "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/gtav.dll",
                 "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/Mod.ytd"
@@ -31,7 +31,7 @@
     },
     {
         "Downloaded": false,
-        "Rating": "2.85",
+        "Rating": "2.44",
         "Features": 32,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
@@ -40,7 +40,7 @@
         "Price": "1.000 Features",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
-        "MenuVersion": "1.1",
+        "MenuVersion": "1.2",
         "DownloadLinks": [
 		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModuMenu/Modu%20Menu.dll"
             ],
