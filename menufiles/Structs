@@ -160,25 +160,22 @@
         "Downloaded": false,
         "Rating": "2",
         "Features": 15,
-        "GTAVersion": "2189",
-        "GTAOVersion": "1.52",
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
         "Name": "Elite Mod",
-        "Status": "Outdated",
+        "Status": "Updated",
         "Price": "Free",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
-        "MenuVersion": "2.2",
+        "MenuVersion": "2.3",
         "DownloadLinks": [
-                "https://example.com/mod8.zip",
-                "https://example.com/mod8_alternative.zip"
+                "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/Bobo.dll"
             ],
         "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
+                "Menu.dll"
             ],
         "Versions": [
 		"Free",
-                "Premium",
                 "Dev"
             ]
     },
