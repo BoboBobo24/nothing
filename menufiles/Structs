@@ -108,20 +108,20 @@
         "Downloaded": false,
         "Rating": "8",
         "Features": 50,
-        "GTAVersion": "2545",
-        "GTAOVersion": "1.58",
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
         "Name": "Inferno Hacks",
-        "Status": "Outdated",
+        "Status": "Updated",
         "Price": "500.000 Features",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
-        "MenuVersion": "1.9",
+        "MenuVersion": "2.0",
         "DownloadLinks": [
-                "https://example.com/mod6.zip",
-                "https://example.com/mod6_alternative.zip"
+               "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/Inferno/gtav.dll",
+		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/menu/Mod.ytd"
             ],
         "SaveNames": [
-                "Menu.dll",
+                "Inferno.dll",
                 "UI.ytd"
             ],
         "Versions": [
