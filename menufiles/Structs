@@ -335,4 +335,82 @@
                 "Dev"
             ]
     }
+    {
+        "Downloaded": false,
+        "Rating": "???",
+        "Features": 0,
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
+        "Name": "Insult",
+        "Status": "Competition",
+        "Price": "???",
+        "Game": "GTA V",
+	"Injection": "GTA5.exe",
+        "MenuVersion": "???",
+        "DownloadLinks": [
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll"
+            ],
+        "Versions": [
+		"Free",
+		"Basic",
+                "Premium",
+                "Dev"
+            ]
+    }
+    {
+        "Downloaded": false,
+        "Rating": "???",
+        "Features": 0,
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
+        "Name": "Gorilla Menu",
+        "Status": "Competition",
+        "Price": "???",
+        "Game": "GTA V",
+	"Injection": "GTA5.exe",
+        "MenuVersion": "???",
+        "DownloadLinks": [
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll"
+            ],
+        "Versions": [
+		"Free",
+		"Basic",
+                "Premium",
+                "Dev"
+            ]
+    }
+    {
+        "Downloaded": false,
+        "Rating": "???",
+        "Features": 0,
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
+        "Name": "CyberHacks",
+        "Status": "Competition",
+        "Price": "???",
+        "Game": "GTA V",
+	"Injection": "GTA5.exe",
+        "MenuVersion": "???",
+        "DownloadLinks": [
+                "https://example.com/mod12.zip",
+                "https://example.com/mod12_alternative.zip"
+            ],
+        "SaveNames": [
+                "Menu.dll"
+            ],
+        "Versions": [
+		"Free",
+		"Basic",
+                "Premium",
+                "Dev"
+            ]
+    }
 ]
