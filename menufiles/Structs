@@ -36,13 +36,13 @@
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
         "Name": "Modu Menu",
-        "Status": "Terminated",
+        "Status": "Undetected",
         "Price": "1.000 Features",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
         "MenuVersion": "1.4",
         "DownloadLinks": [
-		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModuMenu/Modu%20Menu.dll-termed"
+		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModuMenu/Modu%20Menu.dll"
             ],
         "SaveNames": [
                 "Menu.dll"
