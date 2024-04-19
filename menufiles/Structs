@@ -3,7 +3,7 @@
         "Downloaded": false,
         "Rating": "9.8",
         "Features": 315,
-        "GTAVersion": "3095",
+        "GTAVersion": "3179",
         "GTAOVersion": "1.68",
         "Name": "Super Menu",
         "Status": "Undetected",
@@ -108,7 +108,7 @@
         "Downloaded": false,
         "Rating": "8",
         "Features": 50,
-        "GTAVersion": "3095",
+        "GTAVersion": "3179",
         "GTAOVersion": "1.68",
         "Name": "Inferno Hacks",
         "Status": "Updated",
@@ -331,84 +331,6 @@
         "Versions": [
 		"Free",
 		"Lite",
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "???",
-        "Features": 0,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Insult",
-        "Status": "Competition",
-        "Price": "???",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "???",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll"
-            ],
-        "Versions": [
-		"Free",
-		"Basic",
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "???",
-        "Features": 0,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "Gorilla Menu",
-        "Status": "Competition",
-        "Price": "???",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "???",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll"
-            ],
-        "Versions": [
-		"Free",
-		"Basic",
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "???",
-        "Features": 0,
-        "GTAVersion": "3095",
-        "GTAOVersion": "1.68",
-        "Name": "CyberHacks",
-        "Status": "Competition",
-        "Price": "???",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "???",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll"
-            ],
-        "Versions": [
-		"Free",
-		"Basic",
                 "Premium",
                 "Dev"
             ]
