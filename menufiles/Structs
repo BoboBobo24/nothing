@@ -31,18 +31,18 @@
     },
     {
         "Downloaded": false,
-        "Rating": "2.44",
+        "Rating": "Unrated",
         "Features": 35,
         "GTAVersion": "3179",
         "GTAOVersion": "1.68",
-        "Name": "Modu Menu",
-        "Status": "Undetected",
+        "Name": "Modo Menu",
+        "Status": "Updating",
         "Price": "1.000 Features",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
-        "MenuVersion": "1.4",
+        "MenuVersion": "1.0",
         "DownloadLinks": [
-		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModuMenu/Modu%20Menu.dll"
+		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModuMenu/Modu%20Menu.dll-dis"
             ],
         "SaveNames": [
                 "Menu.dll"
