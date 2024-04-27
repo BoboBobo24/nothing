@@ -1,26 +1,33 @@
 [
   {
            "Free": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "Lite": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "Basic": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "Regular": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "Premium": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "VIP": [
-             "CarlosNugget1234"
+             "CarlosNugget1234",
+             "BobosNuggets"
             ],
                "Dev": [
              "CarlosNugget1234",
-             "CrazySpongeDog"
+             "CrazySpongeDog",
+             "BobosNuggets"
             ]
   }
 ]
