@@ -1,1 +1,18 @@
-
+[
+  {
+              "Basic": [
+             "CarlosNugget1234",
+             "BobosNuggets"
+            ],
+               "Regular": [
+             "CarlosNugget1234",
+             "BobosNuggets",
+             "votulacz14"
+            ],
+               "Dev": [
+             "CarlosNugget1234",
+             "CrazySpongeDog",
+             "BobosNuggets"
+            ]
+  }
+]
