@@ -32,12 +32,12 @@
     {
         "Downloaded": false,
         "Rating": "Unrated",
-        "Features": 35,
+        "Features": 50,
         "GTAVersion": "3179",
         "GTAOVersion": "1.68",
         "Name": "Modo Menu",
         "Status": "Updating",
-        "Price": "1.000 Features",
+        "Price": "Free",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
         "MenuVersion": "1.0",
@@ -49,32 +49,6 @@
             ],
         "Versions": [
                 "Basic",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "7",
-        "Features": 100,
-        "GTAVersion": "1604",
-        "GTAOVersion": "1.46",
-        "Name": "Legacy Menu",
-        "Status": "Outdated",
-        "Price": "Free",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "3.7",
-        "DownloadLinks": [
-                "https://example.com/mod4.zip",
-                "https://example.com/mod4_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Free",
-		"VIP",
                 "Dev"
             ]
     },
@@ -99,32 +73,6 @@
         "Versions": [
                 "Basic",
 		"Regular",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "7",
-        "Features": 115,
-        "GTAVersion": "2060",
-        "GTAOVersion": "1.51",
-        "Name": "Crack Engine",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "6.5",
-        "DownloadLinks": [
-                "https://example.com/mod5.zip",
-                "https://example.com/mod5_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Free",
-                "VIP",
                 "Dev"
             ]
     },
@@ -156,38 +104,12 @@
     },
     {
         "Downloaded": false,
-        "Rating": "4",
-        "Features": 65,
-        "GTAVersion": "2944",
-        "GTAOVersion": "1.67",
-        "Name": "Purge",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "3.7",
-        "DownloadLinks": [
-                "https://example.com/mod7.zip",
-                "https://example.com/mod7_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Free",
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
         "Rating": "2",
         "Features": 15,
         "GTAVersion": "3095",
         "GTAOVersion": "1.68",
         "Name": "Elite Mod",
-        "Status": "Updated",
+        "Status": "Outdated",
         "Price": "Free",
         "Game": "GTA V",
 	"Injection": "GTA5.exe",
@@ -200,162 +122,6 @@
             ],
         "Versions": [
 		"Free",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "2",
-        "Features": 45,
-        "GTAVersion": "2545",
-        "GTAOVersion": "1.58",
-        "Name": "Shadow Cheat",
-        "Status": "Detected",
-        "Price": "700.000 Features",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "2.0",
-        "DownloadLinks": [
-                "https://example.com/mod9.zip",
-                "https://example.com/mod9_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Regular",
-                "VIP",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "6",
-        "Features": 95,
-        "GTAVersion": "2699",
-        "GTAOVersion": "1.61",
-        "Name": "Vortex",
-        "Status": "Outdated",
-        "Price": "1.000.000 Features",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "6.3",
-        "DownloadLinks": [
-                "https://example.com/mod10.zip",
-                "https://example.com/mod10_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "5",
-        "Features": 55,
-        "GTAVersion": "2944",
-        "GTAOVersion": "1.67",
-        "Name": "Quantum Menu",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "1.7",
-        "DownloadLinks": [
-                "https://example.com/mod11.zip",
-                "https://example.com/mod11_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-                "Free",
-                "Paid",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "8",
-        "Features": 86,
-        "GTAVersion": "2944",
-        "GTAOVersion": "1.67",
-        "Name": "Fusion",
-        "Status": "Outdated",
-        "Price": "800.000 Features",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "5.8",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-		"Lite",
-                "Premium",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "6",
-        "Features": 43,
-        "GTAVersion": "2372",
-        "GTAOVersion": "1.57",
-        "Name": "Phoenix",
-        "Status": "Outdated",
-        "Price": "45.000 Features",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "1.53",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-		"Lite",
-                "VIP",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
-        "Rating": "7.5",
-        "Features": 73,
-        "GTAVersion": "2372",
-        "GTAOVersion": "1.57",
-        "Name": "Spectrum",
-        "Status": "Detected",
-        "Price": "Free",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "8.97",
-        "DownloadLinks": [
-                "https://example.com/mod12.zip",
-                "https://example.com/mod12_alternative.zip"
-            ],
-        "SaveNames": [
-                "Menu.dll",
-                "UI.ytd"
-            ],
-        "Versions": [
-		"Free",
-		"Lite",
-                "Premium",
                 "Dev"
             ]
     }
