@@ -54,30 +54,6 @@
     },
     {
         "Downloaded": false,
-        "Rating": "Unrated",
-        "Features": 10,
-        "GTAVersion": "3179",
-        "GTAOVersion": "1.68",
-        "Name": "MegaHeist",
-        "Status": "Testing",
-        "Price": "50.000 Features",
-        "Game": "GTA V",
-	"Injection": "GTA5.exe",
-        "MenuVersion": "1.1",
-        "DownloadLinks": [
-		"https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/MegaHeist/BigBaseV2.dll"
-            ],
-        "SaveNames": [
-                "Menu.dll"
-            ],
-        "Versions": [
-                "Basic",
-		"Regular",
-                "Dev"
-            ]
-    },
-    {
-        "Downloaded": false,
         "Rating": "8",
         "Features": 50,
         "GTAVersion": "3179",
