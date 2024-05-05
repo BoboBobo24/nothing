@@ -4,6 +4,7 @@
         "Icon": "Q",
         "Version": "1.0",
         "Description": "Test Description",
+        "Image": "LinkToAnImage",
         "Features": 10,
         "Status": "Undetected",
         "GameVersion": "1.68, b3179",
