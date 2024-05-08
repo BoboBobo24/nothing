@@ -3,9 +3,9 @@
         "Name": "Quantum",
         "Icon": "Q",
         "Version": "1.0",
-        "Description": "Test Description",
-        "Image": "LinkToAnImage",
-        "Features": 10,
+        "Description": "Quantum Menu: Made from an unreleased version Bobo v2. With standard mod options and a twist of uniqueness, Quantum Menu lets you enjoy a new perspective of GTA V. Allowing you to Customize it with custom icons, headers, and gradients by changing the image files in the Ui folder or downloading a custom texture dlc",
+        "Image": "NoLink",
+        "Features": 85,
         "Status": "Undetected",
         "GameVersion": "1.68, b3179",
         "Game": "GTA V",
@@ -13,8 +13,7 @@
         "Users": ["BobosNuggets"],
         "Admins": ["BobosNuggets"],
         "DLC": [
-        ["Test", "This is a test dlc", "ThisSHouldBeALink", "FileSaveName", "1.000 Features", ["BobosNuggets"]],
-        ["Test2", "This is a 2nd test dlc", "ThisSHouldBeALink2", "SaveName", "2.000 Features", ["BobosNuggets"]]
+        ["Main Dlc", "This is necessary for the Ui of the menu. To Install simply follow these steps : 1.Install, 2.Open Folder, 3.Go to GTA V/Quantum, 4.Open the DLC1_Files.zip, 5.Copy the Ui Folder, 6.Go to C:/, 7.Create if not already created a folder named Quantum, 8.Paste the Ui Folder, 9.Enjoy the Menu", "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Ui.zip", "DLC1_Files.zip", "Free", ["BobosNuggets"]]
         ]
 }
 ]
