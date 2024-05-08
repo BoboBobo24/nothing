@@ -3,7 +3,7 @@
         "Name": "Quantum",
         "Icon": "Q",
         "Version": "1.0",
-        "Description": "Quantum Menu: Made from an unreleased version Bobo v2. With standard mod options and a twist of uniqueness, Quantum Menu lets you enjoy a new perspective of GTA V. Allowing you to Customize it with custom icons, headers, and gradients by changing the image files in the Ui folder or downloading a custom texture dlc",
+        "Description": "Quantum Menu: Made from an unreleased version Bobo v2.\n With standard mod options and a twist of uniqueness, Quantum Menu lets you enjoy a new perspective of GTA V.\n Allowing you to Customize it with custom icons, headers, and gradients by changing the image files in the Ui folder or downloading a custom texture dlc.",
         "Image": "NoLink",
         "Features": 85,
         "Status": "Undetected",
@@ -13,7 +13,7 @@
         "Users": ["BobosNuggets"],
         "Admins": ["BobosNuggets"],
         "DLC": [
-        ["Main Dlc", "This is necessary for the Ui of the menu. To Install simply follow these steps : 1.Install, 2.Open Folder, 3.Go to GTA V/Quantum, 4.Open the DLC1_Files.zip, 5.Copy the Ui Folder, 6.Go to C:/, 7.Create if not already created a folder named Quantum, 8.Paste the Ui Folder, 9.Enjoy the Menu", "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Ui.zip", "DLC1_Files.zip", "Free", ["BobosNuggets"]]
+        ["Main Dlc", "This is necessary for the Ui of the menu.\n To Install simply follow these steps :\n 1.Install,\n 2.Open Folder,\n 3.Go to GTA V/Quantum,\n 4.Open the DLC1_Files.zip,\n 5.Copy the Ui Folder,\n 6.Go to C:/,\n 7.Create if not already created a folder named Quantum,\n 8.Paste the Ui Folder,\n 9.Enjoy the Menu", "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Ui.zip", "DLC1_Files.zip", "Free", ["BobosNuggets"]]
         ]
 }
 ]
