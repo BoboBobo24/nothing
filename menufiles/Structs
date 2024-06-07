@@ -100,5 +100,28 @@
 		"Free",
                 "Dev"
             ]
+    },
+    {
+        "Downloaded": false,
+        "Rating": "5",
+        "Features": 50,
+        "GTAVersion": "3095",
+        "GTAOVersion": "1.68",
+        "Name": "Star Menu",
+        "Status": "Semi-Broken",
+        "Price": "5.000",
+        "Game": "GTA V",
+	"Injection": "GTA5.exe",
+        "MenuVersion": "1.0",
+        "DownloadLinks": [
+                "https://raw.githubusercontent.com/BoboBobo24/nothing/main/menufiles/ModHub_Base_V1.dll"
+            ],
+        "SaveNames": [
+                "Menu.dll"
+            ],
+        "Versions": [
+		"Paid",
+                "Dev"
+            ]
     }
 ]
