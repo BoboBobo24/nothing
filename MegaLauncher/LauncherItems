@@ -37,7 +37,7 @@
     "Name": "Liminal",
     "Icon": "L",
     "Version": "1.0",
-    "Description": "Liminal Mod Menu presents an advanced modding experience for GTA V, seamlessly integrating both Native and ImGui user interfaces into one comprehensive menu. With similar options available in both styles, ImGui offers a user-friendly interface with extensive customization options, while Native UI provides compact features for swift navigation, although with slightly reduced customization. Additionally, users have the flexibility to utilize both interfaces simultaneously, enabling quick access to multiple submenus for enhanced efficiency and convenience.",
+    "Description": "Liminal Mod Menu offers an advanced modding experience for GTA V, integrating Native and ImGui user interfaces into one menu. It provides extensive customization options and allows simultaneous use of both interfaces for quick access to multiple submenus.",
     "Price": "5,000,000 Features",
     "Features": 750,
     "Status": "Undetected",
