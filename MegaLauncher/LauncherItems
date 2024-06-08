@@ -13,7 +13,38 @@
         "Users": ["BobosNuggets"],
         "Admins": ["BobosNuggets"],
         "DLC": [
-        ["Main Dlc", "This is necessary for the Ui of the menu.\n To Install simply follow these steps :\n 1.Install,\n 2.Open Folder,\n 3.Go to GTA V/Quantum,\n 4.Open the DLC1_Files.zip,\n 5.Copy the Ui Folder,\n 6.Go to C:/,\n 7.Create if not already created a folder named Quantum,\n 8.Paste the Ui Folder,\n 9.Enjoy the Menu", "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Ui.zip", "DLC1_Files.zip", "Free", ["BobosNuggets"]]
+        ["Main Dlc",
+        "This is necessary for the Ui of the menu.\n To Install simply follow these steps :\n 1.Install,\n 2.Open Folder,\n 3.Go to GTA V/Quantum,\n 4.Open the DLC1_Files.zip,\n 5.Copy the Ui Folder,\n 6.Go to C:/,\n 7.Create if not already created a folder named Quantum,\n 8.Paste the Ui Folder,\n 9.Enjoy the Menu",
+        "Free",
+        ["BobosNuggets"],
+        [["https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Ui.zip", "C:\\Mega Launcher\\GTA V\\Quantum\\DLC1_Files.zip"]]
+        ],
+        "Downloads": [
+        ["https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Mod.dll", "C:\\Mega Launcher\\GTA V\\Quantum\\Mod.dll"]
+        ]
+},
+{
+        "Name": "Liminal",
+        "Icon": "L",
+        "Version": "1.0",
+        "Description": "Liminal Mod Menu presents an advanced modding experience for GTA V, seamlessly integrating both Native and ImGui user interfaces into one comprehensive menu. With similar options available in both styles, ImGui offers a user-friendly interface with extensive customization options, while Native UI provides compact features for swift navigation, although with slightly reduced customization. Additionally, users have the flexibility to utilize both interfaces simultaneously, enabling quick access to multiple submenus for enhanced efficiency and convenience.",
+        "Price": "5.000.000 Features",
+        "Features": 750,
+        "Status": "Undetected",
+        "GameVersion": "1.68, b3179",
+        "Game": "GTA V",
+        "EXE": "GTA5.exe",
+        "Users": ["BobosNuggets"],
+        "Admins": ["BobosNuggets"],
+        "DLC": [
+        ["DLC Name",
+        "DLC Description",
+        "Price",
+        ["Users"],
+        [["Download Url", "Location"]]
+        ],
+        "Downloads": [
+        ["https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Mod.dll", "C:\\Mega Launcher\\GTA V\\Liminal\\Mod.dll"]
         ]
 }
 ]
