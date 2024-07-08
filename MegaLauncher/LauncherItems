@@ -37,19 +37,19 @@
     "Name": "Liminal",
     "Icon": "L",
     "Version": "1.0",
-    "Description": "Liminal Mod Menu offers an advanced modding experience for GTA V, integrating Native and ImGui user interfaces into one menu. It provides extensive customization options and allows simultaneous use of both interfaces for quick access to multiple submenus.",
-    "Price": "5,000,000 Features",
-    "Features": 750,
-    "Status": "Undetected",
-    "GameVersion": "1.68, b3179",
+    "Description": "",
+    "Price": "Free",
+    "Features": 300,
+    "Status": "Unfinished",
+    "GameVersion": "1.69, b3258",
     "Game": "GTA V",
     "EXE": "GTA5.exe",
-    "Users": ["BobosNuggets"],
+    "Users": ["BobosNuggets", "vitulacz14"],
     "Admins": ["BobosNuggets"],
     "DLC": [],
     "Downloads": [
       {
-        "Url": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Quantum/Mod.dll",
+        "Url": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Liminal/Mod.dll",
         "Location": "C:\\Mega Launcher\\GTA V\\Liminal\\Mod.dll"
       }
     ]
