@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Display Mod",
+    "Description": "This is not a mod just a testing item",
+    "Game": "GTA V, Dying Light",
+    "GameVersion": "55.5",
+    "ModType": "Mod Menu",
+    "ModVersion": "1.0",
+    "Price": "100 X-Bucks",
+    "Status": "Detected",
+    "Injection": "BLACKMonkey.exe",
+    "LatestUpdateDate": "7/12/2024",
+    "Downloads":[{
+      "URL": "",
+      "Location":"Mods\\Testing"
+    }],
+    "Images":[
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761734491540%2F&psig=AOvVaw1Rz7qL_a_tckKJZC_qnnbC&ust=1720819652961000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIipgfP2n4cDFQAAAAAdAAAAABAE"
+    ],
+    "Users":[
+      "BobosNuggets"
+    ],
+    "Tags":[
+      "GTA V",
+      "DL1",
+      "Mod Menu"
+    ]
+  }
+]
