@@ -12,7 +12,8 @@
     "LatestUpdateDate": "7/12/2024",
     "Downloads":[{
       "URL": "",
-      "Location":"Mods\\Testing"
+      "Location":"Mods\\Testing",
+      "FileName":"Test.json"
     }],
     "Images":[
       "https://cdn.discordapp.com/attachments/1257004043792814121/1257021902694781049/Unbenannt.png?ex=66935f1f&is=66920d9f&hm=61f76a33bc496116e72a3ffccad23b90723555aabdf54aa2d2c6fd7b10a060b0&"
