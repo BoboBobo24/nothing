@@ -27,5 +27,33 @@
       "DL1",
       "Mod Menu"
     ]
+  },
+  {
+    "Name": "Liminal",
+    "Description": "Liminal Mod Menu is so good ong",
+    "Game": "GTA V",
+    "GameVersion": "v.1.69, b.3258",
+    "ModType": "Mod Menu",
+    "ModVersion": "1.0",
+    "Price": "50 X-Bucks",
+    "Status": "Unfinished",
+    "Injection": "GTA5.exe",
+    "InjectionItem":"Mods\\Liminal\\Liminal.dll",
+    "LatestUpdateDate": "2024-7-14",
+    "Downloads":[{
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Liminal/Mod.dll",
+      "Location":"Mods\\Liminal",
+      "FileName":"Liminal.dll"
+    }],
+    "Images":[
+      "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Text7.png"
+    ],
+    "Users":[
+      "BobosNuggets"
+    ],
+    "Tags":[
+      "GTA V",
+      "Mod Menu"
+    ]
   }
 ]
