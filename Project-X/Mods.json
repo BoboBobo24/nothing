@@ -9,7 +9,7 @@
     "Price": "100 X-Bucks",
     "Status": "Detected",
     "Injection": "BLACKMonkey.exe",
-    "InjectionItem":"Mods\\Display Mod\\NoDllFile.dll",
+    "InjectionItem":"Mods\\Display Mod\\GTA V, Dying Light\\NoDllFile.dll",
     "LatestUpdateDate": "2024-7-13",
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Text7.png",
@@ -38,7 +38,7 @@
     "Price": "50 X-Bucks",
     "Status": "Unfinished",
     "Injection": "GTA5.exe",
-    "InjectionItem":"Mods\\Liminal\\Liminal.dll",
+    "InjectionItem":"Mods\\GTA V\\Liminal\\Liminal.dll",
     "LatestUpdateDate": "2024-7-14",
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/MegaLauncher/Mods/Liminal/Mod.dll",
