@@ -1,19 +1,19 @@
 [
   {
-    "Name": "Display Mod",
+    "Name": "Test Mod",
     "Description": "This is not a mod just a testing item",
-    "Game": "GTA V, Dying Light",
-    "GameVersion": "55.5",
+    "Game": "GTA V",
+    "GameVersion": "Idk",
     "ModType": "Mod Menu",
-    "ModVersion": "1.0",
-    "Price": "100 X-Bucks",
-    "Status": "Detected",
-    "Injection": "BLACKMonkey.exe",
-    "InjectionItem":"Mods\\Display Mod\\GTA V, Dying Light\\NoDllFile.dll",
-    "LatestUpdateDate": "2024-7-13",
+    "ModVersion": "1.1",
+    "Price": "200 X-Bucks",
+    "Status": "Undetected",
+    "Injection": "GTAVI.exe",
+    "InjectionItem":"Mods\\GTA V\\Test Mod\\NoDllFile.dll",
+    "LatestUpdateDate": "2024-7-22",
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Text7.png",
-      "Location":"Mods\\GTA V, Dying Light\\Display Mod",
+      "Location":"Mods\\GTA V\\Test Mod",
       "FileName":"Test.png"
     }],
     "Images":[
@@ -24,7 +24,6 @@
     ],
     "Tags":[
       "GTA V",
-      "DL1",
       "Mod Menu"
     ]
   }
