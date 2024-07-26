@@ -26,5 +26,34 @@
       "GTA V",
       "Mod Menu"
     ]
+  },
+    {
+    "Name": "Modo Menu",
+    "Description": "This is a nice menu with a lot of useful and fun options",
+    "Game": "GTA V",
+    "GameVersion": "v.1.69, b.3274",
+    "ModType": "Mod Menu",
+    "ModVersion": "v.0.0",
+    "Price": "Free",
+    "Status": "Unknown",
+    "Injection": "GTA5.exe",
+    "InjectionItem":"Mods\\GTA V\\Modo Menu\\mod_menu.dll",
+    "LatestUpdateDate": "2024-07-26",
+    "Downloads":[{
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/ModoMenu/GTAV.dll",
+      "Location":"Mods\\GTA V\\Modo Menu",
+      "FileName":"mod_menu.dll"
+    }],
+    "Images":[
+      "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/ModoMenu.PNG"
+    ],
+    "Users":[
+      "BobosNuggets",
+      "vitulacz14"
+    ],
+    "Tags":[
+      "GTA V",
+      "Mod Menu"
+    ]
   }
 ]
