@@ -72,43 +72,43 @@
     "InjectionItem":"Mods\\GTA V\\Aether\\GTAV.dll",
     "LatestUpdateDate": "2024-07-28",
     "Downloads":[{
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/color.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/color.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"color.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/dots.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/dots.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"dots.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/footer.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/footer.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"footer.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/keyboard.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/keyboard.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"keyboard.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/scroller.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/scroller.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"scroller.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_off.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_off.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"toggle_off.png",
       "UseCurl": 1
     },
     {
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_on.PNG",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_on.png",
       "Location":"Mods\\GTA V\\Aether",
       "FileName":"toggle_on.png",
       "UseCurl": 1
