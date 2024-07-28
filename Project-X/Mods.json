@@ -56,5 +56,71 @@
       "Mod Menu",
       "Free"
     ]
+  },
+  {
+    "Name": "Aether (SP)",
+    "Description": "This is an updated for SP version of the aether mod menu",
+    "Game": "GTA V",
+    "GameVersion": "v.1.69, b.3274",
+    "ModType": "Mod Menu",
+    "ModVersion": "v.1.0",
+    "Price": "Free",
+    "Status": "Unknown",
+    "Injection": "GTA5.exe",
+    "InjectionItem":"Mods\\GTA V\\Aether\\mod_menu.dll",
+    "LatestUpdateDate": "2024-07-28",
+    "Downloads":[{
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/color.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"color.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/dots.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"dots.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/footer.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"footer.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/keyboard.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"keyboard.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/scroller.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"scroller.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_off.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"toggle_off.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_on.PNG",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"toggle_on.png"
+    },
+    {
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/GTAV.dll",
+      "Location":"Mods\\GTA V\\Aether",
+      "FileName":"GTAV.dll"
+    }
+    ],
+    "Images":[
+      "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/AetherSP.PNG"
+    ],
+    "Users":[
+      "BobosNuggets",
+      "vitulacz14"
+    ],
+    "Tags":[
+      "GTA V",
+      "Mod Menu",
+      "Free"
+    ]
   }
 ]
