@@ -14,7 +14,8 @@
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Project-X-GTAV.dll",
       "Location":"Mods\\GTA V\\Project-X",
-      "FileName":"mod_menu.dll"
+      "FileName":"mod_menu.dll",
+      "UseCurl": 0
     }],
     "Images":[
       "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA-V-Project-X.PNG"
@@ -42,7 +43,8 @@
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/ModoMenu/GTAV.dll",
       "Location":"Mods\\GTA V\\Modo Menu",
-      "FileName":"mod_menu.dll"
+      "FileName":"mod_menu.dll",
+      "UseCurl": 0
     }],
     "Images":[
       "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/ModoMenu.PNG"
@@ -72,42 +74,50 @@
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/color.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"color.png"
+      "FileName":"color.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/dots.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"dots.png"
+      "FileName":"dots.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/footer.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"footer.png"
+      "FileName":"footer.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/keyboard.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"keyboard.png"
+      "FileName":"keyboard.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/scroller.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"scroller.png"
+      "FileName":"scroller.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_off.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"toggle_off.png"
+      "FileName":"toggle_off.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/toggle_on.PNG",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"toggle_on.png"
+      "FileName":"toggle_on.png",
+      "UseCurl": 1
     },
     {
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Aether/GTAV.dll",
       "Location":"Mods\\GTA V\\Aether",
-      "FileName":"GTAV.dll"
+      "FileName":"GTAV.dll",
+      "UseCurl": 0
     }
     ],
     "Images":[
