@@ -132,5 +132,36 @@
       "Mod Menu",
       "Free"
     ]
-  }
+  },
+   {
+    "Name": "Modu Menu",
+    "Description": "A Mod Menu created with bobo's custom mod menu service",
+    "Game": "GTA V",
+    "GameVersion": "v.1.69, b.3274",
+    "ModType": "Mod Menu",
+    "ModVersion": "v.1.0",
+    "Price": "Free",
+    "Status": "Unknown",
+    "Injection": "GTA5.exe",
+    "InjectionItem":"Mods\\GTA V\\Modu Menu\\mod_menu.dll",
+    "LatestUpdateDate": "2024-08-02",
+    "Downloads":[{
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Modu%20Menu/gtav.dll",
+      "Location":"Mods\\GTA V\\Modu Menu",
+      "FileName":"mod_menu.dll",
+      "UseCurl": 0
+    }],
+    "Images":[
+      "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/Modu%20/Unbenannt.PNG"
+    ],
+    "Users":[
+      "BobosNuggets",
+      "vitulacz14"
+    ],
+    "Tags":[
+      "GTA V",
+      "Mod Menu",
+      "Free"
+    ]
+  },
 ]
