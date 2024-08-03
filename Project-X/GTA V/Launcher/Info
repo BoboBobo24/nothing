@@ -1,0 +1,18 @@
+How to add new packs...
+
+make a new file example : 
+Themes.json
+Use a structure like this :
+[
+{
+  "Name": "Example Theme",
+  "Image": "LinkToAnImage",
+  "Downloads" : [
+  {
+  "Link" : "LinkToDownload",
+  "Path" : "C:\\NWord" // this is what to do with the file in this case we would either move it to our themese folder or apply it to our settings
+  //Additional Stuff if needed (Handle it correctly in the source code of the launcher)
+  }
+  ]
+}
+]
