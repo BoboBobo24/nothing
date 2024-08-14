@@ -37,9 +37,9 @@
       "FileName":"Sub_Bar.png",
       "UseCurl": 1
     },{
-      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Submenu_Options.png",
+      "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Submenu_Option.png",
       "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
-      "FileName":"Submenu_Options.png",
+      "FileName":"Submenu_Option.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Toggled_Off.png",
