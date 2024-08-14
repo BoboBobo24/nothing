@@ -1,1 +1,123 @@
-#### Full Change Log Here
+--v.1.0.0
+Main Changes
+UI Update
+
+Added > DLC
+Added > Players > Teleport
+
+Fixed a lot of stuff
+
+--v.0.9.b
+skipped
+
+--v.0.8.b
+Added > Miscellaneous > No Idle Kick [Basic]
+Added > Miscellaneous > Disable Phone [Basic]
+Added > Miscellaneous > Infinite Interaction Menu [Regular]
+Added > Miscellaneous > Mobile Radio [Basic]
+
+Added > Spawner > Match Velocity
+
+Fixed > Mouse state reseting
+Fixed > Spectate don't work
+Fixed > Spawner > Delete Old not working
+Fixed > Modded Color bug
+
+
+Changed Open Button to F9
+
+--v.0.7.b
+Added > World > Time [Regular]
+Added > World > Weather [Regular]
+Added > Advanced Crash Protections [Free]
+
+Background
+Added > Bypass Casino Country Restrictions
+Added > Bypass SC Profanity Check
+Added > Full Script Variable Bypass
+Added > Background Protections > IS_PED_SHOOTING Detection
+Added > Bypass Transaction Error
+Added > Tunables
+
+--v.0.6.b
+Added > Teleport [Basic]
+Added > Spawner [Regular]
+Added > Crash Protections [Free]
+
+--v.0.5.b
+Added > Network > Spoofing [Pro]
+Added > Players > Spectate [Regular]
+Added > Protections [Free]
+
+--v.0.4.b
+Added Vehicle >
+Added > Appearance >
+Added > Movement >
+Added > Health >
+More Features...
+
+Added some more background stuff
+
+--v.0.3.b
+Backend
+Script Patches
+Added > SP Despawn Bypass
+Added > OOB Death Bypass
+Added > Anti Detections
+
+Added > Native Hooking
+
+Added > Caching
+Added > Settings > Cache > Cache Modded Items
+Added > Settings > Cache > Rebuild Cache
+
+Added > Byte Patches
+Added > Model Spawn Bypass
+Added > Anti-Cheat patches
+
+Anti-Cheat
+Added > Anti-Cheat Bypass
+
+Fixes
+Fixed > Bypass auth bug
+Fixed > Regeneration Armor exceeding limit
+Fixed > Mouse still being enabled even after menu was closed
+Fixed > Notification Text scale issues
+Fixed > Fixed wrong alpha checks
+
+Additions
+Added > Weapon >
+Added > Infinite Ammo [Basic]
+Added > Infinite Mag [Basic]
+Added > Always Full Ammo [Basic]
+Added > Give All Weapons [Lite]
+Added > Remove All Weapons [Lite]
+Added > Give All Ammo [Lite] 
+Added > Remove All Ammo [Lite]
+Added > Give Current Ammo [Basic]
+Added > Remove Current Ammo [Basic]
+Added > Upgrade All Weapons [Standard]
+Added > Downgrade All Weapons [Standard]
+Added > Upgrade Current Weapon [Standard]
+Added > Downgrade Current Weapon [Standard]
+
+--v.0.2.b
+Added > Self >
+Added > Wanted Level [Basic]
+Added > Fake Wanted Level [Standard]
+Added > Clear Wanted [Lite]
+
+Added > Self > Appearance >
+Added > Opacity [Basic]
+Added > Invisibility [Basic]
+
+Added > Self > Health >
+Added > Regeneration > [Basic]
+Added > Godmode [Free]
+Added > Special Godmode [Standard]
+Added > Heal [Lite]
+Added > Suicide [Lite]
+
+--v.0.1.b
+Added > Base
+Added > Settings
