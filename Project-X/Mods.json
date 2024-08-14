@@ -1,7 +1,7 @@
 [
   {
     "Name": "Project-X GTA V",
-    "Description": "This is one of the best gta v mod menu on this planet (no cap). It offers a wide range of protections and features.",
+    "Description": "This is one of the best gta v mod menu on this planet (no cap). It offers a wide range of protections and features. This is a private mod menu",
     "Game": "GTA V",
     "GameVersion": "v.1.69, b.3274",
     "ModType": "Mod Menu",
@@ -18,37 +18,37 @@
       "UseCurl": 0
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Background.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Background.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Footer.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Footer.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Header.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Header.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Sub_Bar.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Sub_Bar.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Submenu_Options.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Submenu_Options.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Toggled_Off.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Toggled_Off.png",
       "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Toggled_On.png",
-      "Location":"Mods\\GTA V\\Project-X\\Textures",
+      "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
       "FileName":"Toggled_On.png",
       "UseCurl": 1
     }],
