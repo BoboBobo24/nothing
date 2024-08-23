@@ -15,7 +15,7 @@
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Project-X-GTAV.dll",
       "Location":"Mods\\GTA V\\Project-X",
       "FileName":"mod_menu.dll",
-      "UseCurl": 0
+      "UseCurl": 1
     },{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Textures/Background.png",
       "Location":"Mods\\GTA V\\Project-X\\Textures\\UI",
