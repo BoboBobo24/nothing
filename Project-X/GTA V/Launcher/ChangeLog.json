@@ -1,3 +1,19 @@
+--v.1.0.6
+## Fixes
+Fixed > Loop Bounty not working
+Fixed > Misc > Crash
+
+## Player > Nice
+Added > Semi God [Elite]
+Added > Never Wanted [Premium]
+Added > Off Radar [Elite]
+Added > Clear Wanted [Premium]
+Added > Fill Health [Pro]
+Added > Fill Armor [Pro]
+
+## Code
+Added > network
+
 --v.1.0.5
 ## Fixes
 Fixed > Some UI Elements not saving
