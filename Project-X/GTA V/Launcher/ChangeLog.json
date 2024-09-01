@@ -1,3 +1,8 @@
+-- v.1.1.2
+## Fixes
+Fixed > Themes not saving ui text
+Fixed > Themes that used modified ui text
+
 -- v.1.1.1
 ## Fixes
 Fixed > Model Changing if its the same
