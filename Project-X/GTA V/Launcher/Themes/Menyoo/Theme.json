@@ -1,4 +1,8 @@
 {
+    "Enterable_Text": ">",
+    "Header_Text": "Project-X",
+    "Off_Text": "Off",
+    "On_Text": "On",
     "description": {
         "color": {
             "a": 150,

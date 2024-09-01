@@ -1,4 +1,8 @@
 {
+    "Enterable_Text": ">>",
+    "Header_Text": "Project-X",
+    "Off_Text": "Off",
+    "On_Text": "On",
     "description": {
         "color": {
             "a": 201,
@@ -54,6 +58,36 @@
             "rgb_fade": false
         },
         "footer_type": 0,
+        "gradientColor": {
+            "bottom_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "bottom_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            },
+            "top_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "top_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            }
+        },
         "height": 50.0,
         "line": {
             "outline": false,
@@ -231,6 +265,13 @@
                 "rgb_fade": false
             }
         },
+        "bg_texture_color": {
+            "a": 255,
+            "b": 77,
+            "g": 77,
+            "r": 77,
+            "rgb_fade": false
+        },
         "bg_type": 0,
         "color_option_rounding": 5.0,
         "enterable": {
@@ -337,6 +378,13 @@
                 "rgb_fade": false
             },
             "rounding": 0.0
+        },
+        "scroller_texture_color": {
+            "a": 255,
+            "b": 128,
+            "g": 128,
+            "r": 128,
+            "rgb_fade": false
         },
         "scroller_type": 0,
         "text_color": {
