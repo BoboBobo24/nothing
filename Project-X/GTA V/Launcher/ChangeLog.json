@@ -1,3 +1,13 @@
+-- v.1.1.1
+## Fixes
+Fixed > Model Changing if its the same
+Fixed > Menu Model Change not keeping weapons
+Fixed > Spawner > Always spawning in air
+Fixed > Early Inject causes auth to fail
+
+## Background
+Added > Reset Features on Uninject
+
 -- v.1.1.0
 ## Self
 Added > Model [Ultimate]
