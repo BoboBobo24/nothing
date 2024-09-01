@@ -2,9 +2,9 @@
     "description": {
         "color": {
             "a": 255,
-            "b": 42,
-            "g": 40,
-            "r": 40,
+            "b": 0,
+            "g": 0,
+            "r": 0,
             "rgb_fade": false
         },
         "line": {
@@ -17,22 +17,22 @@
                 "rgb_fade": false
             },
             "outline_size": 2.0,
-            "seperator": false,
+            "seperator": true,
             "seperator_color": {
                 "a": 255,
-                "b": 255,
-                "g": 0,
-                "r": 255,
+                "b": 69,
+                "g": 190,
+                "r": 139,
                 "rgb_fade": false
             },
-            "seperator_size": 2.0
+            "seperator_size": 3.0
         },
         "rounding": 0.0,
         "text_color": {
             "a": 255,
-            "b": 214,
-            "g": 214,
-            "r": 214,
+            "b": 69,
+            "g": 190,
+            "r": 139,
             "rgb_fade": false
         },
         "text_size": 0.8999999761581421
@@ -40,9 +40,9 @@
     "footer": {
         "color": {
             "a": 255,
-            "b": 42,
-            "g": 40,
-            "r": 40,
+            "b": 0,
+            "g": 0,
+            "r": 0,
             "rgb_fade": false
         },
         "enabled": true,
@@ -105,16 +105,16 @@
             },
             "seperator_size": 1.0
         },
-        "rounding": 0.0,
+        "rounding": 10.0,
         "text_color": {
             "a": 255,
-            "b": 214,
-            "g": 214,
-            "r": 214,
+            "b": 69,
+            "g": 190,
+            "r": 139,
             "rgb_fade": false
         },
         "text_size": 0.8999999761581421,
-        "y_text_offset": 0.0
+        "y_text_offset": -2.0
     },
     "header": {
         "height": 125.0,
@@ -206,18 +206,18 @@
     "items": 20,
     "notifications": {
         "background": {
-            "a": 150,
-            "b": 25,
-            "g": 21,
-            "r": 23,
+            "a": 200,
+            "b": 0,
+            "g": 0,
+            "r": 0,
             "rgb_fade": false
         },
         "rounding": 0.0,
         "text_color": {
             "a": 255,
-            "b": 255,
-            "g": 255,
-            "r": 255,
+            "b": 69,
+            "g": 190,
+            "r": 139,
             "rgb_fade": false
         },
         "text_size": 1.0
@@ -402,7 +402,7 @@
             "color_by_state": true,
             "pos_offset": {
                 "x": -27.0,
-                "y": -9.0
+                "y": -5.0
             },
             "size_offset": {
                 "x": 0.0,
@@ -410,21 +410,21 @@
             },
             "toggled_color": {
                 "a": 255,
-                "b": 143,
-                "g": 194,
-                "r": 54,
+                "b": 69,
+                "g": 190,
+                "r": 139,
                 "rgb_fade": false
             },
             "type": 1,
             "untoggled_color": {
                 "a": 255,
-                "b": 146,
-                "g": 148,
-                "r": 177,
+                "b": 0,
+                "g": 11,
+                "r": 179,
                 "rgb_fade": false
             }
         },
-        "y_text_offset": -3.0
+        "y_text_offset": -2.0
     },
     "pos_x": 1765.0,
     "pos_y": 100.0,
