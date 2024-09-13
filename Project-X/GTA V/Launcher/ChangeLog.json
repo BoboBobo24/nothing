@@ -1,3 +1,59 @@
+-- v.1.1.4
+## Fixes
+Fixed > Some Game Crashes
+Improved > Online Session Joining
+Fixed > Some issues with Customs
+Fixed > Rebuilding Cache crashes Game [Rebuild Cache only works once now, after that you need to reinject the menu]
+Fixed > Invisibility applied to vehicles too when only player invisibility is selected
+Fixed > Invisibility (Localy) not working in online
+Fixed > Input Box Invalid Pointer Crash
+
+## Self
+Added > Interior Free Roam [Elite]
+Added > Force Field [Premium]
+Added > Animations > Animations [Premium]
+Added > Animations > Scenarios [Premium]
+Added > Animations > Movement Styles [VIP]
+
+## Weapon
+Added > Ped Gun [Premium]
+Added > Vehicle Gun [Premium]
+Added > Drop Weapon [Pro]
+Added > Drop All Weapons [Pro]
+
+## Vehicle
+Added > Engine [Premium]
+Added > Wheelie [Premium]
+Added > Acrobatics [Pro]
+Improved > Doors
+
+## Network
+Added > Force Host [VIP]
+Added > Force Script Host [Premium]
+Added > Fast Join [Premium]
+
+## Spoofing
+Added > Spoof Host Token Spoofing [VIP] 
+
+## Players
+Added > Kill [Premium]
+Added > Explode [Premium]
+Added > Ragdoll [Premium]
+Added > Taze [Premium]
+Added > Force 9/11 [Ultimate]
+Added > Player to Self [VIP]
+Added > Player in Vehicle [VIP]
+Added > Fire Loop [Elite]
+Added > Water Loop [Elite]
+Added > Force Loop [Elite]
+Added > Ragdoll Loop [Elite]
+Added > Explosion Loop [Elite]
+Added > Kill Loop [Elite]
+
+## Protections
+Improved > Kick Protections
+Improved > Modder Protection
+
 -- v.1.1.3
 ## Mods 
 Added > Misc
