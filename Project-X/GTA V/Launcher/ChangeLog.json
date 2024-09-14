@@ -1,3 +1,21 @@
+-- v.1.1.5
+
+## Fixed
+Removed > Debug Prints on Inject
+Fixed > Interior Free Roam
+Fixed > Invisibility Flashing
+
+## Player > Kicks
+Added > Break Up [VIP]
+Added > Host Kick [VIP]
+Added > Desync [Ultimate]
+Added > End Session [Elite]
+Added > OOM [VIP]
+Added > Script Host Kick [Elite] 
+Added > Gaslight Kick [Premium]
+Added > Bail [Pro]
+Added > Ultra Kick [Ultimate]
+
 -- v.1.1.4
 ## Fixes
 Fixed > Some Game Crashes
