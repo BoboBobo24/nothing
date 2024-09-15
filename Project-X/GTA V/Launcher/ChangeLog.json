@@ -1,5 +1,14 @@
--- v.1.1.5
+-- v.1.1.6
+## Fixes
+Fixed > Native Hooks not working
 
+## Player > Weapon
+Added > Editor [Elite]
+Added > Give All Weapons [Premium]
+Added > Remove All Weapons [Premium]
+Added > Give Ammo [Pro]
+
+-- v.1.1.5
 ## Fixed
 Removed > Debug Prints on Inject
 Fixed > Interior Free Roam
