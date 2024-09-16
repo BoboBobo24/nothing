@@ -1,3 +1,19 @@
+-- 1.1.8
+## Changes
+Rewrite native_hook & native_hooks classes
+
+## Fixes
+Fixed > Player > Weapon > Editor > Give/Take not working
+
+## Added > Player > Nice > Drops
+Added > Drop Health [Premium]
+Added > Drop Armor [Premium]
+Added > Drop Parachute [Premium]
+Added > Drop Snack [Premium]
+
+## Player > Toxic
+Added > Cage [Elite]
+
 -- v.1.1.7
 ## Player > Vehicle
 Added > Fix Vehicle [Pro]
