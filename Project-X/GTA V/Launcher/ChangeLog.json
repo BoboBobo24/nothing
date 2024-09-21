@@ -1,3 +1,34 @@
+-- v.1.2.0
+
+## Changes
+You will now be forced to have force host enabled to play gta online
+
+## Fixed
+Fixed > GayEye preventing joining online if disabled
+
+## Updated
+Updated to build 3323
+
+## Player > Kicks
+Added > Battleye Kick [Elite]
+Added > Battleye Ban [Elite]
+
+## Protections
+Added > Battleye Kick
+Added > Battleye Ban
+
+-- v.1.1.9
+## Fixes
+Fixed > Desync Kick
+
+## Player > Crash
+Added > Script Crash [Pro]
+Added > Fragment Crash [Premium]
+Added > KKK Crash [Premium]
+Added > Elegant Crash [VIP]
+Added > Control Crash [Premium]
+Added > Remove Crash [VIP]
+
 -- 1.1.8
 ## Changes
 Rewrite native_hook & native_hooks classes
