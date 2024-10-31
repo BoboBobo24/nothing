@@ -2,47 +2,47 @@
 Make sure to download the latest Launcher version
 
 ## Fixes 
-  You can now join online playing with others might be limited.
-  Added Hearbeat handling
-  Updated to b3351
+You can now join online playing with others might be limited.
+Added Hearbeat handling
+Updated to b3351
   
 ## Player
-  Removed > BattlEye Ban
-  Sorted > Drops > Money Drops
-  Fixed > RP Drop > Looped Casino Cards not dropping
+Removed > BattlEye Ban
+Sorted > Drops > Money Drops
+Fixed > RP Drop > Looped Casino Cards not dropping
 
 ## Network
-  Added > Session Starter
-  Removed > Forced Force Host
-  Removed > Force Host
-  Readded > Kick Host
+Added > Session Starter
+Removed > Forced Force Host
+Removed > Force Host
+Readded > Kick Host
 
 ## UI
-  Fixed > Pixelated Header Text
-  Added > Header Text Type > {Submenu, None}
-  Added > Header Text Input
-  Fixed > Outline & Seperator leaving a gap
-  Added > Fonts
-  Added > Gif Support
+Fixed > Pixelated Header Text
+Added > Header Text Type > {Submenu, None}
+Added > Header Text Input
+Fixed > Outline & Seperator leaving a gap
+Added > Fonts
+Added > Gif Support
 
 ## Self
-  Improved > FF > Apply Godmode if not already
-  Improved > FF > Include Peds in force field
+Improved > FF > Apply Godmode if not already
+Improved > FF > Include Peds in force field
 
-  Added > Vegetable Mode [Advanced]
-  Added > Infinite Stamina [Lite]
-  Added > Clumsy Mode [Regular]
+Added > Vegetable Mode [Advanced]
+Added > Infinite Stamina [Lite]
+Added > Clumsy Mode [Regular]
 
 ## Weapon
-  Fixed > airstrikes landing the same
-  Fixed > drive it gun
-  Added > skip reloading [Regular]
-  Added > no weapon spin [Advanced]
-  Fixed > shot gun mode
-  Added > some impact weapons now work with melee
+Fixed > airstrikes landing the same
+Fixed > drive it gun
+Added > skip reloading [Regular]
+Added > no weapon spin [Advanced]
+Fixed > shot gun mode
+Added > some impact weapons now work with melee
 
 ## Recovery
-  Added > Unlocks [Ultimate]
+Added > Unlocks [Ultimate]
 
 
 -- v.1.2.2
