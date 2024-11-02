@@ -1,4 +1,8 @@
 {
+    "Enterable_Text": ">>",
+    "Header_Text": "Ultra Mega Super Skibidi Ohio Mod Menu v.2.0.0",
+    "Off_Text": "Off",
+    "On_Text": "On",
     "description": {
         "color": {
             "a": 200,
@@ -6,6 +10,46 @@
             "g": 49,
             "r": 9,
             "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "gradient": {
+            "bl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "br": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tr": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            }
         },
         "line": {
             "outline": false,
@@ -35,7 +79,16 @@
             "r": 242,
             "rgb_fade": false
         },
-        "text_size": 0.7999999523162842
+        "text_size": 1.0,
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "type": 0,
+        "y_text_offset": -3.0
     },
     "footer": {
         "color": {
@@ -46,6 +99,16 @@
             "rgb_fade": false
         },
         "enabled": false,
+        "font": {
+            "load_scale": 22.0
+        },
+        "footer_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "footer_texture_color": {
             "a": 255,
             "b": 255,
@@ -54,6 +117,36 @@
             "rgb_fade": false
         },
         "footer_type": 0,
+        "gradientColor": {
+            "bottom_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "bottom_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            },
+            "top_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "top_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            }
+        },
         "height": 30.0,
         "line": {
             "outline": true,
@@ -87,6 +180,16 @@
         "y_text_offset": 0.0
     },
     "header": {
+        "font": {
+            "load_scale": 110.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "height": 20.0,
         "line": {
             "outline": false,
@@ -172,7 +275,7 @@
             "rounding": 10.0
         }
     },
-    "is_mouse_enabled": false,
+    "is_mouse_enabled": true,
     "items": 40,
     "notifications": {
         "background": {
@@ -182,6 +285,9 @@
             "r": 9,
             "rgb_fade": false
         },
+        "font": {
+            "load_scale": 18.0
+        },
         "rounding": 0.0,
         "text_color": {
             "a": 200,
@@ -190,7 +296,7 @@
             "r": 242,
             "rgb_fade": false
         },
-        "text_size": 1.0
+        "text_size": 1.100000023841858
     },
     "opened": true,
     "options": {
@@ -199,6 +305,13 @@
             "b": 69,
             "g": 49,
             "r": 9,
+            "rgb_fade": false
+        },
+        "bg_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
             "rgb_fade": false
         },
         "bg_gradient": {
@@ -231,18 +344,35 @@
                 "rgb_fade": false
             }
         },
+        "bg_texture_color": {
+            "a": 255,
+            "b": 57,
+            "g": 57,
+            "r": 57,
+            "rgb_fade": false
+        },
         "bg_type": 0,
         "color_option_rounding": 0.0,
         "enterable": {
+            "font": {
+                "load_scale": 22.0
+            },
             "pos_offset": {
                 "x": 5.0,
-                "y": -8.0
+                "y": -5.0
             },
             "size_offset": {
                 "x": -21.0,
                 "y": -15.0
             },
             "type": 1
+        },
+        "focused_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
         },
         "focused_text_color": {
             "a": 255,
@@ -256,6 +386,16 @@
             "b": 63,
             "g": 61,
             "r": 55,
+            "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
             "rgb_fade": false
         },
         "height": 25.0,
@@ -278,13 +418,20 @@
             "rgb_fade": false
         },
         "right_text_color": {
+            "a": 200,
+            "b": 244,
+            "g": 243,
+            "r": 242,
+            "rgb_fade": false
+        },
+        "rounding": 0.0,
+        "scroller_gif_color": {
             "a": 255,
             "b": 255,
             "g": 255,
             "r": 255,
             "rgb_fade": false
         },
-        "rounding": 0.0,
         "scroller_gradient": {
             "color": {
                 "bottom_left": {
@@ -338,6 +485,13 @@
             },
             "rounding": 0.0
         },
+        "scroller_texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "scroller_type": 0,
         "text_color": {
             "a": 200,
@@ -346,19 +500,22 @@
             "r": 242,
             "rgb_fade": false
         },
-        "text_size": 0.7999999523162842,
+        "text_size": 1.0,
         "texture_color": {
-            "a": 255,
-            "b": 255,
-            "g": 255,
-            "r": 255,
+            "a": 200,
+            "b": 244,
+            "g": 243,
+            "r": 242,
             "rgb_fade": false
         },
         "toggle": {
             "color_by_state": false,
+            "font": {
+                "load_scale": 24.0
+            },
             "pos_offset": {
                 "x": -19.0,
-                "y": -11.0
+                "y": -7.0
             },
             "size_offset": {
                 "x": -10.0,
@@ -380,7 +537,7 @@
                 "rgb_fade": false
             }
         },
-        "y_text_offset": -4.0
+        "y_text_offset": -7.0
     },
     "pos_x": 785.0,
     "pos_y": -4.0,
@@ -389,6 +546,16 @@
     "sounds": true,
     "sub_bar": {
         "enabled": true,
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "height": 30.0,
         "line": {
             "outline": false,

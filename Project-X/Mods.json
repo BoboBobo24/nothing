@@ -1,16 +1,16 @@
 [
   {
     "Name": "Project-X GTA V",
-    "Description": "This is one of the best gta v mod menu on this planet (no cap). It offers a wide range of protections and features. This is a private mod menu",
+    "Description": "This is one of the best gta v mod menu on this planet (no cap). It offers a wide range of protections and features",
     "Game": "GTA V",
     "GameVersion": "v.1.69, b.3351",
     "ModType": "Mod Menu",
-    "ModVersion": "2.0.0",
+    "ModVersion": "2.0.1",
     "Price": "Free",
     "Status": "Use with caution",
     "Injection": "GTA5.exe",
     "InjectionItem":"Mods\\GTA V\\Project-X\\mod_menu.dll",
-    "LatestUpdateDate": "2024-10-31",
+    "LatestUpdateDate": "2024-11-2",
     "Downloads":[{
       "URL": "https://raw.githubusercontent.com/BoboBobo24/nothing/main/Project-X/GTA%20V/Project-X-GTAV.dll",
       "Location":"Mods\\GTA V\\Project-X",

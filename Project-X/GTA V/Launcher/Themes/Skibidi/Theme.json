@@ -1,0 +1,609 @@
+{
+    "Enterable_Text": ">>",
+    "Header_Text": "Ultra Mega Super Skibidi Ohio Mod Menu v.2.0.0",
+    "Off_Text": "Off",
+    "On_Text": "On",
+    "description": {
+        "color": {
+            "a": 150,
+            "b": 25,
+            "g": 21,
+            "r": 23,
+            "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "gradient": {
+            "bl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "br": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tr": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            }
+        },
+        "line": {
+            "outline": false,
+            "outline_color": {
+                "a": 255,
+                "b": 77,
+                "g": 77,
+                "r": 255,
+                "rgb_fade": false
+            },
+            "outline_size": 4.0,
+            "seperator": false,
+            "seperator_color": {
+                "a": 255,
+                "b": 255,
+                "g": 0,
+                "r": 255,
+                "rgb_fade": false
+            },
+            "seperator_size": 2.0
+        },
+        "rounding": 0.0,
+        "text_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "text_size": 1.0,
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "type": 0
+    },
+    "footer": {
+        "color": {
+            "a": 255,
+            "b": 29,
+            "g": 28,
+            "r": 27,
+            "rgb_fade": false
+        },
+        "enabled": true,
+        "font": {
+            "load_scale": 22.0
+        },
+        "footer_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "footer_texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "footer_type": 0,
+        "gradientColor": {
+            "bottom_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "bottom_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            },
+            "top_left": {
+                "a": 255,
+                "b": 184,
+                "g": 153,
+                "r": 32,
+                "rgb_fade": false
+            },
+            "top_right": {
+                "a": 255,
+                "b": 134,
+                "g": 115,
+                "r": 16,
+                "rgb_fade": false
+            }
+        },
+        "height": 50.0,
+        "line": {
+            "outline": false,
+            "outline_color": {
+                "a": 255,
+                "b": 255,
+                "g": 160,
+                "r": 77,
+                "rgb_fade": false
+            },
+            "outline_size": 2.0,
+            "seperator": false,
+            "seperator_color": {
+                "a": 255,
+                "b": 201,
+                "g": 201,
+                "r": 201,
+                "rgb_fade": false
+            },
+            "seperator_size": 1.0
+        },
+        "rounding": 0.0,
+        "text_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "text_size": 1.0,
+        "y_text_offset": 0.0
+    },
+    "header": {
+        "font": {
+            "load_scale": 110.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "height": 140.0,
+        "line": {
+            "outline": false,
+            "outline_color": {
+                "a": 255,
+                "b": 255,
+                "g": 160,
+                "r": 77,
+                "rgb_fade": false
+            },
+            "outline_size": 2.0,
+            "seperator": false,
+            "seperator_color": {
+                "a": 201,
+                "b": 201,
+                "g": 201,
+                "r": 201,
+                "rgb_fade": false
+            },
+            "seperator_size": 1.0
+        },
+        "text_offset": {
+            "x": 422.0,
+            "y": -100.0
+        },
+        "text_standard": {
+            "color": {
+                "a": 255,
+                "b": 41,
+                "g": 0,
+                "r": 214,
+                "rgb_fade": true
+            },
+            "scale": 3.0
+        },
+        "text_type": 0,
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "type": 3,
+        "type_gradient": {
+            "bottom_left": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "bottom_right": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "top_left": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "top_right": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            }
+        },
+        "type_static": {
+            "color": {
+                "a": 0,
+                "b": 20,
+                "g": 20,
+                "r": 20,
+                "rgb_fade": false
+            },
+            "rounding": 10.0
+        }
+    },
+    "is_mouse_enabled": false,
+    "items": 20,
+    "notifications": {
+        "background": {
+            "a": 150,
+            "b": 25,
+            "g": 21,
+            "r": 23,
+            "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "rounding": 0.0,
+        "text_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "text_size": 1.0
+    },
+    "opened": true,
+    "options": {
+        "background_color": {
+            "a": 150,
+            "b": 25,
+            "g": 21,
+            "r": 23,
+            "rgb_fade": false
+        },
+        "bg_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "bg_gradient": {
+            "bottom_left": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "bottom_right": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "top_left": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "top_right": {
+                "a": 255,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            }
+        },
+        "bg_texture_color": {
+            "a": 255,
+            "b": 77,
+            "g": 77,
+            "r": 77,
+            "rgb_fade": false
+        },
+        "bg_type": 0,
+        "color_option_rounding": 0.0,
+        "enterable": {
+            "font": {
+                "load_scale": 22.0
+            },
+            "pos_offset": {
+                "x": -1.0,
+                "y": -4.0
+            },
+            "size_offset": {
+                "x": -16.0,
+                "y": -10.0
+            },
+            "type": 0
+        },
+        "focused_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "focused_text_color": {
+            "a": 255,
+            "b": 254,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "focused_texture_color": {
+            "a": 255,
+            "b": 254,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "height": 40.0,
+        "line": {
+            "outline": false,
+            "outline_color": {
+                "a": 255,
+                "b": 77,
+                "g": 77,
+                "r": 255,
+                "rgb_fade": false
+            },
+            "outline_size": 4.0
+        },
+        "right_focused_text_color": {
+            "a": 255,
+            "b": 254,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "right_text_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "rounding": 0.0,
+        "scroller_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "scroller_gradient": {
+            "color": {
+                "bottom_left": {
+                    "a": 200,
+                    "b": 201,
+                    "g": 201,
+                    "r": 201,
+                    "rgb_fade": false
+                },
+                "bottom_right": {
+                    "a": 200,
+                    "b": 40,
+                    "g": 40,
+                    "r": 40,
+                    "rgb_fade": false
+                },
+                "top_left": {
+                    "a": 200,
+                    "b": 201,
+                    "g": 201,
+                    "r": 201,
+                    "rgb_fade": false
+                },
+                "top_right": {
+                    "a": 200,
+                    "b": 80,
+                    "g": 80,
+                    "r": 80,
+                    "rgb_fade": false
+                }
+            }
+        },
+        "scroller_line": {
+            "outline": true,
+            "outline_color": {
+                "a": 255,
+                "b": 255,
+                "g": 160,
+                "r": 77,
+                "rgb_fade": false
+            },
+            "outline_size": 2.0
+        },
+        "scroller_standard": {
+            "color": {
+                "a": 255,
+                "b": 197,
+                "g": 131,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "rounding": 0.0
+        },
+        "scroller_texture_color": {
+            "a": 255,
+            "b": 128,
+            "g": 128,
+            "r": 128,
+            "rgb_fade": false
+        },
+        "scroller_type": 3,
+        "text_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "text_size": 1.0,
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "toggle": {
+            "color_by_state": true,
+            "font": {
+                "load_scale": 24.0
+            },
+            "pos_offset": {
+                "x": -34.0,
+                "y": -15.0
+            },
+            "size_offset": {
+                "x": 10.0,
+                "y": 10.0
+            },
+            "toggled_color": {
+                "a": 255,
+                "b": 77,
+                "g": 255,
+                "r": 92,
+                "rgb_fade": false
+            },
+            "type": 2,
+            "untoggled_color": {
+                "a": 255,
+                "b": 77,
+                "g": 77,
+                "r": 255,
+                "rgb_fade": false
+            }
+        },
+        "y_text_offset": -3.0
+    },
+    "pos_x": 277.0,
+    "pos_y": 268.0,
+    "smooth_scroll": true,
+    "smooth_speed": 2.000000238418579,
+    "sounds": true,
+    "sub_bar": {
+        "enabled": true,
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "height": 40.0,
+        "line": {
+            "outline": false,
+            "outline_color": {
+                "a": 255,
+                "b": 255,
+                "g": 160,
+                "r": 77,
+                "rgb_fade": false
+            },
+            "outline_size": 2.0,
+            "seperator": false,
+            "seperator_color": {
+                "a": 201,
+                "b": 201,
+                "g": 201,
+                "r": 201,
+                "rgb_fade": false
+            },
+            "seperator_size": 1.0
+        },
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "type": 0,
+        "type_standard": {
+            "color": {
+                "a": 100,
+                "b": 0,
+                "g": 0,
+                "r": 0,
+                "rgb_fade": false
+            },
+            "rounding": 0.0,
+            "show_option_items": true,
+            "text_color": {
+                "a": 255,
+                "b": 255,
+                "g": 255,
+                "r": 255,
+                "rgb_fade": false
+            },
+            "text_size": 1.0499999523162842
+        },
+        "y_text_offset": -3.0
+    },
+    "width": 500.0
+}

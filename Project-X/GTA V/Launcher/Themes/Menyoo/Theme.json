@@ -1,15 +1,55 @@
 {
     "Enterable_Text": ">",
-    "Header_Text": "Project-X",
+    "Header_Text": "Menyoo",
     "Off_Text": "Off",
     "On_Text": "On",
     "description": {
         "color": {
             "a": 150,
-            "b": 0,
-            "g": 0,
-            "r": 0,
+            "b": 15,
+            "g": 15,
+            "r": 15,
             "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "gradient": {
+            "bl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "br": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tl": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            },
+            "tr": {
+                "a": 255,
+                "b": 25,
+                "g": 25,
+                "r": 25,
+                "rgb_fade": false
+            }
         },
         "line": {
             "outline": false,
@@ -21,7 +61,7 @@
                 "rgb_fade": false
             },
             "outline_size": 1.0,
-            "seperator": false,
+            "seperator": true,
             "seperator_color": {
                 "a": 255,
                 "b": 255,
@@ -39,7 +79,16 @@
             "r": 255,
             "rgb_fade": false
         },
-        "text_size": 0.8999999761581421
+        "text_size": 1.0,
+        "texture_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "type": 0,
+        "y_text_offset": 0.0
     },
     "footer": {
         "color": {
@@ -50,6 +99,16 @@
             "rgb_fade": false
         },
         "enabled": true,
+        "font": {
+            "load_scale": 22.0
+        },
+        "footer_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "footer_texture_color": {
             "a": 255,
             "b": 255,
@@ -118,9 +177,19 @@
             "rgb_fade": false
         },
         "text_size": 1.0,
-        "y_text_offset": -3.0
+        "y_text_offset": -2.0
     },
     "header": {
+        "font": {
+            "load_scale": 110.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "height": 125.0,
         "line": {
             "outline": false,
@@ -154,9 +223,9 @@
                 "r": 255,
                 "rgb_fade": false
             },
-            "scale": 3.0
+            "scale": 2.8000001907348633
         },
-        "text_type": 0,
+        "text_type": 1,
         "texture_color": {
             "a": 255,
             "b": 255,
@@ -211,10 +280,13 @@
     "notifications": {
         "background": {
             "a": 150,
-            "b": 0,
-            "g": 0,
-            "r": 0,
+            "b": 15,
+            "g": 15,
+            "r": 15,
             "rgb_fade": false
+        },
+        "font": {
+            "load_scale": 22.0
         },
         "rounding": 0.0,
         "text_color": {
@@ -233,6 +305,13 @@
             "b": 15,
             "g": 15,
             "r": 15,
+            "rgb_fade": false
+        },
+        "bg_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
             "rgb_fade": false
         },
         "bg_gradient": {
@@ -275,6 +354,9 @@
         "bg_type": 0,
         "color_option_rounding": 0.0,
         "enterable": {
+            "font": {
+                "load_scale": 22.0
+            },
             "pos_offset": {
                 "x": -2.0,
                 "y": 0.0
@@ -284,6 +366,13 @@
                 "y": -10.0
             },
             "type": 0
+        },
+        "focused_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
         },
         "focused_text_color": {
             "a": 255,
@@ -299,7 +388,17 @@
             "r": 255,
             "rgb_fade": false
         },
-        "height": 50.0,
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
+        "height": 45.0,
         "line": {
             "outline": false,
             "outline_color": {
@@ -326,6 +425,13 @@
             "rgb_fade": false
         },
         "rounding": 0.0,
+        "scroller_gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "scroller_gradient": {
             "color": {
                 "bottom_left": {
@@ -404,9 +510,12 @@
         },
         "toggle": {
             "color_by_state": true,
+            "font": {
+                "load_scale": 24.0
+            },
             "pos_offset": {
                 "x": -37.0,
-                "y": -7.0
+                "y": -10.0
             },
             "size_offset": {
                 "x": 15.0,
@@ -432,11 +541,21 @@
     },
     "pos_x": 64.0,
     "pos_y": 40.0,
-    "smooth_scroll": true,
+    "smooth_scroll": false,
     "smooth_speed": 3.9999990463256836,
     "sounds": true,
     "sub_bar": {
         "enabled": false,
+        "font": {
+            "load_scale": 22.0
+        },
+        "gif_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rgb_fade": false
+        },
         "height": 50.0,
         "line": {
             "outline": false,
